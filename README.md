@@ -1,3 +1,3 @@
 # LeetCode
 My codes for LeetCode <br>
-Author- Mr.Mehul Khandelwal 
+Author- Mehul Khandelwal 
