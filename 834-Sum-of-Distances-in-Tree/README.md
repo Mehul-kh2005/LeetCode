@@ -1,7 +1,7 @@
 # 834. Sum of Distances in Tree
 There is an undirected connected tree with n nodes labeled from `0` to `n - 1` and `n - 1` edges.
 
-You are given the integer `n` and the array `edges` where edges[i] = [$a_i$ , $b_i$] indicates that there is an edge between nodes $a_i$ and $b_i$ in the tree.
+You are given the integer `n` and the array `edges` where edges[i] = [ $a_i$ , $b_i$ ] indicates that there is an edge between nodes $a_i$ and $b_i$ in the tree.
 
 Return an array `answer` of length `n` where `answer[i]` is the sum of the distances between the $i^{th}$ 
 node in the tree and all other nodes.
