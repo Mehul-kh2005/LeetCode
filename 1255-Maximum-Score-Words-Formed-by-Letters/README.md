@@ -30,7 +30,7 @@ Letter "e" can only be used once.
  
 ## Constraints:
 - `1 <= words.length <= 14`
-- ==1 <= words[i].length <= 15==
+- `1 <= words[i].length <= 15`
 - `1 <= letters.length <= 100`
 - `letters[i].length == 1`
 - `score.length == 26`
