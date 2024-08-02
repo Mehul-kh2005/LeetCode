@@ -48,6 +48,7 @@ Author- Mehul Khandelwal
 | ------- |
 | [0838-design-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/0838-design-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/Mehul-kh2005/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Design
 |  |
@@ -79,4 +80,12 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mehul-kh2005/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Two Pointers
+|  |
+| ------- |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
