@@ -7,6 +7,7 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Mehul-kh2005/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Mehul-kh2005/LeetCode/tree/master/0078-subsets) |
 | [0239-sliding-window-maximum](https://github.com/Mehul-kh2005/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/Mehul-kh2005/LeetCode/tree/master/0413-arithmetic-slices) |
@@ -102,6 +103,7 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Mehul-kh2005/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Mehul-kh2005/LeetCode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
