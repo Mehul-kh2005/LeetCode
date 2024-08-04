@@ -9,6 +9,9 @@ class Solution:
                 return
             
             for i in range(start,len(nums)):
+                if i > start and nums[i] == nums[start]:
+                    continue
+                    
                 nums[start],nums[i]=nums[i],nums[start]
                 backtrack(start+1)
                 nums[start],nums[i]=nums[i],nums[start]
