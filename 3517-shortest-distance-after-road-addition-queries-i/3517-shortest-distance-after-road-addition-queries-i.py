@@ -1,28 +1,30 @@
-class Solution(object):
+class Solution:
     def shortestDistanceAfterQueries(self, n, queries):
-        """
-        :type n: int
-        :type queries: List[List[int]]
-        :rtype: List[int]
-        """
-        neigh = [[] for _ in range(n)]
+        adj = [[] for _ in range(n)]
         
-        for i in range(1,n):
-            neigh[i].append(i-1)
-
-        inf = 10**9
-            
+        for i in range(n - 1):
+            adj[i].append(i + 1)
+        
+        d = [i for i in range(n)]
         ans = []
-        for [u,v] in queries:
-            neigh[v].append(u)
+        
+        for query in queries:
+            from_node = query[0]
+            to_node = query[1]
+            adj[from_node].append(to_node)
             
-            dp = [inf]*(n)
-            dp[0] = 0
-            for i in range(1,n):
+            if d[from_node] + 1 < d[to_node]:
+                q = deque([to_node])
+                d[to_node] = d[from_node] + 1
                 
-                for pre in neigh[i]:
-                    dp[i] = min(dp[i], dp[pre] + 1)
+                while q:
+                    v = q.popleft()
                     
-            ans.append(dp[n-1])
+                    for next_node in adj[v]:
+                        if d[v] + 1 < d[next_node]:
+                            d[next_node] = d[v] + 1
+                            q.append(next_node)
             
+            ans.append(d[-1])
+        
         return ans
