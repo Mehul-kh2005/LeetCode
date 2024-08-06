@@ -27,6 +27,7 @@ Author- Mehul Khandelwal
 | [0012-integer-to-roman](https://github.com/Mehul-kh2005/LeetCode/tree/master/0012-integer-to-roman) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Mehul-kh2005/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Author- Mehul Khandelwal
 | [0142-linked-list-cycle-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +52,7 @@ Author- Mehul Khandelwal
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Mehul-kh2005/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Mehul-kh2005/LeetCode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -123,4 +126,9 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Greedy
+|  |
+| ------- |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
