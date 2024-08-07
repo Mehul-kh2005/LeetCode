@@ -26,6 +26,7 @@ Author- Mehul Khandelwal
 | [0006-zigzag-conversion](https://github.com/Mehul-kh2005/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Mehul-kh2005/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0043-multiply-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/0043-multiply-strings) |
 | [0273-integer-to-english-words](https://github.com/Mehul-kh2005/LeetCode/tree/master/0273-integer-to-english-words) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Mehul-kh2005/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -43,6 +44,7 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Mehul-kh2005/LeetCode/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/0043-multiply-strings) |
 | [0273-integer-to-english-words](https://github.com/Mehul-kh2005/LeetCode/tree/master/0273-integer-to-english-words) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Mehul-kh2005/LeetCode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -88,6 +90,7 @@ Author- Mehul Khandelwal
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/0043-multiply-strings) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Mehul-kh2005/LeetCode/tree/master/1657-find-the-winner-of-an-array-game) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Mehul-kh2005/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 ## Queue
