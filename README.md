@@ -29,6 +29,7 @@ Author- Mehul Khandelwal
 | [0006-zigzag-conversion](https://github.com/Mehul-kh2005/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Mehul-kh2005/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Mehul-kh2005/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Mehul-kh2005/LeetCode/tree/master/0049-group-anagrams) |
@@ -163,4 +164,8 @@ Author- Mehul Khandelwal
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0921-spiral-matrix-iii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
