@@ -15,6 +15,7 @@ Author- Mehul Khandelwal
 | [0665-non-decreasing-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0665-non-decreasing-array) |
 | [0870-magic-squares-in-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Mehul-kh2005/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Mehul-kh2005/LeetCode/tree/master/1657-find-the-winner-of-an-array-game) |
@@ -48,6 +49,7 @@ Author- Mehul Khandelwal
 | [0142-linked-list-cycle-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0870-magic-squares-in-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -164,8 +166,21 @@ Author- Mehul Khandelwal
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0014-longest-common-prefix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
