@@ -26,6 +26,7 @@ Author- Mehul Khandelwal
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Mehul-kh2005/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Mehul-kh2005/LeetCode/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Mehul-kh2005/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mehul-kh2005/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Mehul-kh2005/LeetCode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
