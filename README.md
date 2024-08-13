@@ -11,6 +11,7 @@ Author- Mehul Khandelwal
 | [0047-permutations-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Mehul-kh2005/LeetCode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Mehul-kh2005/LeetCode/tree/master/0078-subsets) |
+| [0189-rotate-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/Mehul-kh2005/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/Mehul-kh2005/LeetCode/tree/master/0413-arithmetic-slices) |
@@ -63,6 +64,7 @@ Author- Mehul Khandelwal
 | [0012-integer-to-roman](https://github.com/Mehul-kh2005/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Mehul-kh2005/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/0043-multiply-strings) |
+| [0189-rotate-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/Mehul-kh2005/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Mehul-kh2005/LeetCode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
@@ -136,6 +138,7 @@ Author- Mehul Khandelwal
 | ------- |
 | [0061-rotate-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0189-rotate-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Mehul-kh2005/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Stack
