@@ -1,9 +1,9 @@
 class Solution:
     def check(self, nums: List[int]) -> bool:
-        lst=sorted(nums.copy())
-
+        c=0
         for i in range(len(nums)):
-            nums[:]=nums[-1:]+nums[:-1]
-            if lst==nums:
-                return True
-        return False
+            if nums[i]>nums[(i+1)%len(nums)]:
+                c+=1
+            if c>1:
+                return False
+        return True
