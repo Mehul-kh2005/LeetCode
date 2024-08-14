@@ -75,6 +75,7 @@ Author- Mehul Khandelwal
 | [0870-magic-squares-in-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Mehul-kh2005/LeetCode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3371-harshad-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/3371-harshad-number) |
 ## Geometry
 |  |
 | ------- |
