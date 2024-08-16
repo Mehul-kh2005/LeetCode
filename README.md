@@ -38,6 +38,7 @@ Author- Mehul Khandelwal
 | [3194-find-words-containing-character](https://github.com/Mehul-kh2005/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Mehul-kh2005/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3516-design-neighbor-sum-service](https://github.com/Mehul-kh2005/LeetCode/tree/master/3516-design-neighbor-sum-service) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/Mehul-kh2005/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 ## String
 |  |
@@ -225,6 +226,7 @@ Author- Mehul Khandelwal
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Mehul-kh2005/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
 |  |
 | ------- |
@@ -253,4 +255,8 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [0814-smallest-rotation-with-highest-score](https://github.com/Mehul-kh2005/LeetCode/tree/master/0814-smallest-rotation-with-highest-score) |
+## Graph
+|  |
+| ------- |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 <!---LeetCode Topics End-->
