@@ -22,6 +22,7 @@ Author- Mehul Khandelwal
 | [0665-non-decreasing-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0665-non-decreasing-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mehul-kh2005/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0814-smallest-rotation-with-highest-score](https://github.com/Mehul-kh2005/LeetCode/tree/master/0814-smallest-rotation-with-highest-score) |
+| [0835-linked-list-components](https://github.com/Mehul-kh2005/LeetCode/tree/master/0835-linked-list-components) |
 | [0870-magic-squares-in-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -61,6 +62,7 @@ Author- Mehul Khandelwal
 | [0049-group-anagrams](https://github.com/Mehul-kh2005/LeetCode/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0835-linked-list-components](https://github.com/Mehul-kh2005/LeetCode/tree/master/0835-linked-list-components) |
 | [0870-magic-squares-in-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -104,6 +106,7 @@ Author- Mehul Khandelwal
 | [0092-reverse-linked-list-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/Mehul-kh2005/LeetCode/tree/master/0725-split-linked-list-in-parts) |
+| [0835-linked-list-components](https://github.com/Mehul-kh2005/LeetCode/tree/master/0835-linked-list-components) |
 | [0838-design-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/0838-design-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/Mehul-kh2005/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
