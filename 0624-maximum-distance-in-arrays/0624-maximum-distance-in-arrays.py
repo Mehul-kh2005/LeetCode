@@ -9,4 +9,5 @@ class Solution:
             result=max(result,abs(min_val-arrays[i][-1]))
             max_val=max(max_val,arrays[i][-1])
             min_val=min(min_val,arrays[i][0])
+            
         return result
