@@ -37,6 +37,7 @@ Author- Mehul Khandelwal
 | [2727-number-of-senior-citizens](https://github.com/Mehul-kh2005/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/Mehul-kh2005/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Mehul-kh2005/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
+| [3516-design-neighbor-sum-service](https://github.com/Mehul-kh2005/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3519-find-the-number-of-winning-players](https://github.com/Mehul-kh2005/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 ## String
 |  |
@@ -70,6 +71,7 @@ Author- Mehul Khandelwal
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3516-design-neighbor-sum-service](https://github.com/Mehul-kh2005/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3519-find-the-number-of-winning-players](https://github.com/Mehul-kh2005/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 ## Math
 |  |
@@ -119,6 +121,7 @@ Author- Mehul Khandelwal
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mehul-kh2005/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/0838-design-linked-list) |
+| [3516-design-neighbor-sum-service](https://github.com/Mehul-kh2005/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Sliding Window
 |  |
 | ------- |
@@ -136,6 +139,7 @@ Author- Mehul Khandelwal
 | [0921-spiral-matrix-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Mehul-kh2005/LeetCode/tree/master/1657-find-the-winner-of-an-array-game) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Mehul-kh2005/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
+| [3516-design-neighbor-sum-service](https://github.com/Mehul-kh2005/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Queue
 |  |
 | ------- |
@@ -206,6 +210,7 @@ Author- Mehul Khandelwal
 | [0921-spiral-matrix-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Mehul-kh2005/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [3516-design-neighbor-sum-service](https://github.com/Mehul-kh2005/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Trie
 |  |
 | ------- |
