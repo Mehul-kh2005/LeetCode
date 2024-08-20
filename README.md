@@ -6,6 +6,7 @@ Author- Mehul Khandelwal
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Mehul-kh2005/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0047-permutations-ii) |
@@ -199,6 +200,7 @@ Author- Mehul Khandelwal
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
