@@ -191,6 +191,7 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mehul-kh2005/LeetCode/tree/master/0020-valid-parentheses) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Backtracking
 |  |
@@ -247,6 +248,7 @@ Author- Mehul Khandelwal
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Mehul-kh2005/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Breadth-First Search
@@ -266,6 +268,7 @@ Author- Mehul Khandelwal
 ## Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mehul-kh2005/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -274,6 +277,7 @@ Author- Mehul Khandelwal
 ## Binary Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mehul-kh2005/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
