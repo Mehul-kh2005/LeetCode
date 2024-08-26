@@ -8,16 +8,15 @@ class Node:
 
 class Solution:
     def postorder(self, root: 'Node') -> List[int]:
-        if not root:
-            return []
         result=[]
 
         def traversal(root):
+            if not root:
+                return
             for child in root.children:
                 traversal(child)
-            result.append(root.val)
 
-            return result
+            result.append(root.val)
 
         traversal(root)
         return result
