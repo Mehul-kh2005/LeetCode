@@ -35,6 +35,7 @@ Author- Mehul Khandelwal
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Mehul-kh2005/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1830-count-good-meals](https://github.com/Mehul-kh2005/LeetCode/tree/master/1830-count-good-meals) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mehul-kh2005/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2035-count-sub-islands](https://github.com/Mehul-kh2005/LeetCode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Mehul-kh2005/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -246,6 +247,7 @@ Author- Mehul Khandelwal
 | [0921-spiral-matrix-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Mehul-kh2005/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/Mehul-kh2005/LeetCode/tree/master/2035-count-sub-islands) |
 | [3516-design-neighbor-sum-service](https://github.com/Mehul-kh2005/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Trie
 |  |
@@ -261,6 +263,7 @@ Author- Mehul Khandelwal
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Mehul-kh2005/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/Mehul-kh2005/LeetCode/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -270,11 +273,13 @@ Author- Mehul Khandelwal
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Mehul-kh2005/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/Mehul-kh2005/LeetCode/tree/master/2035-count-sub-islands) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [2035-count-sub-islands](https://github.com/Mehul-kh2005/LeetCode/tree/master/2035-count-sub-islands) |
 ## Strongly Connected Component
 |  |
 | ------- |
