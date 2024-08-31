@@ -31,6 +31,7 @@ Author- Mehul Khandelwal
 | [1325-path-with-maximum-probability](https://github.com/Mehul-kh2005/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Mehul-kh2005/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Mehul-kh2005/LeetCode/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Mehul-kh2005/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1830-count-good-meals](https://github.com/Mehul-kh2005/LeetCode/tree/master/1830-count-good-meals) |
@@ -103,6 +104,7 @@ Author- Mehul Khandelwal
 | [0650-2-keys-keyboard](https://github.com/Mehul-kh2005/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/1240-stone-game-ii) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Mehul-kh2005/LeetCode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3371-harshad-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/3371-harshad-number) |
@@ -159,6 +161,7 @@ Author- Mehul Khandelwal
 | [0650-2-keys-keyboard](https://github.com/Mehul-kh2005/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Mehul-kh2005/LeetCode/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/1240-stone-game-ii) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Mehul-kh2005/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Simulation
 |  |
@@ -326,6 +329,7 @@ Author- Mehul Khandelwal
 | ------- |
 | [0814-smallest-rotation-with-highest-score](https://github.com/Mehul-kh2005/LeetCode/tree/master/0814-smallest-rotation-with-highest-score) |
 | [1240-stone-game-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/1240-stone-game-ii) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Graph
 |  |
 | ------- |
