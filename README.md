@@ -64,6 +64,7 @@ Author- Mehul Khandelwal
 | [0564-find-the-closest-palindrome](https://github.com/Mehul-kh2005/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Mehul-kh2005/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Mehul-kh2005/LeetCode/tree/master/0664-strange-printer) |
+| [0678-valid-parenthesis-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Mehul-kh2005/LeetCode/tree/master/0686-repeated-string-match) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Mehul-kh2005/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -162,6 +163,7 @@ Author- Mehul Khandelwal
 | [0413-arithmetic-slices](https://github.com/Mehul-kh2005/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0650-2-keys-keyboard](https://github.com/Mehul-kh2005/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Mehul-kh2005/LeetCode/tree/master/0664-strange-printer) |
+| [0678-valid-parenthesis-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1240-stone-game-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/1240-stone-game-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Mehul-kh2005/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -206,6 +208,7 @@ Author- Mehul Khandelwal
 | [0094-binary-tree-inorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -243,6 +246,7 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
+| [0678-valid-parenthesis-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
 |  |
