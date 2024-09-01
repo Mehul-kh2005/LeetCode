@@ -38,6 +38,7 @@ Author- Mehul Khandelwal
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mehul-kh2005/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2035-count-sub-islands](https://github.com/Mehul-kh2005/LeetCode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Mehul-kh2005/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Mehul-kh2005/LeetCode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
@@ -177,6 +178,7 @@ Author- Mehul Khandelwal
 | [0592-fraction-addition-and-subtraction](https://github.com/Mehul-kh2005/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Mehul-kh2005/LeetCode/tree/master/1657-find-the-winner-of-an-array-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Mehul-kh2005/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3516-design-neighbor-sum-service](https://github.com/Mehul-kh2005/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Queue
@@ -265,6 +267,7 @@ Author- Mehul Khandelwal
 | [0999-regions-cut-by-slashes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Mehul-kh2005/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Mehul-kh2005/LeetCode/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3516-design-neighbor-sum-service](https://github.com/Mehul-kh2005/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Trie
 |  |
