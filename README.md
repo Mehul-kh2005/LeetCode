@@ -133,6 +133,7 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mehul-kh2005/LeetCode/tree/master/0049-group-anagrams) |
+| [0295-find-median-from-data-stream](https://github.com/Mehul-kh2005/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mehul-kh2005/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Mehul-kh2005/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -162,6 +163,7 @@ Author- Mehul Khandelwal
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Mehul-kh2005/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mehul-kh2005/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/0838-design-linked-list) |
 | [3516-design-neighbor-sum-service](https://github.com/Mehul-kh2005/LeetCode/tree/master/3516-design-neighbor-sum-service) |
@@ -206,6 +208,7 @@ Author- Mehul Khandelwal
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mehul-kh2005/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/Mehul-kh2005/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0480-sliding-window-median](https://github.com/Mehul-kh2005/LeetCode/tree/master/0480-sliding-window-median) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mehul-kh2005/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/Mehul-kh2005/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -221,6 +224,7 @@ Author- Mehul Khandelwal
 | [0142-linked-list-cycle-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Mehul-kh2005/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mehul-kh2005/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Mehul-kh2005/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -361,6 +365,7 @@ Author- Mehul Khandelwal
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Mehul-kh2005/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mehul-kh2005/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Prefix Sum
 |  |
