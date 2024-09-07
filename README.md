@@ -69,6 +69,7 @@ Author- Mehul Khandelwal
 | [0022-generate-parentheses](https://github.com/Mehul-kh2005/LeetCode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Mehul-kh2005/LeetCode/tree/master/0049-group-anagrams) |
+| [0224-basic-calculator](https://github.com/Mehul-kh2005/LeetCode/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Mehul-kh2005/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Mehul-kh2005/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -119,6 +120,7 @@ Author- Mehul Khandelwal
 | [0029-divide-two-integers](https://github.com/Mehul-kh2005/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/Mehul-kh2005/LeetCode/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0268-missing-number) |
@@ -256,6 +258,7 @@ Author- Mehul Khandelwal
 | [0094-binary-tree-inorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/Mehul-kh2005/LeetCode/tree/master/0224-basic-calculator) |
 | [0678-valid-parenthesis-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -310,6 +313,7 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Mehul-kh2005/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0224-basic-calculator](https://github.com/Mehul-kh2005/LeetCode/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Mehul-kh2005/LeetCode/tree/master/0273-integer-to-english-words) |
 ## Matrix
 |  |
