@@ -13,6 +13,7 @@ Author- Mehul Khandelwal
 | [0047-permutations-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Mehul-kh2005/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mehul-kh2005/LeetCode/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Mehul-kh2005/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/Mehul-kh2005/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -297,6 +298,7 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -328,6 +330,7 @@ Author- Mehul Khandelwal
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0999-regions-cut-by-slashes) |
