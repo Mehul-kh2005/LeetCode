@@ -6,5 +6,5 @@ class Solution:
 
         if index<len(flattened) and flattened[index]==target:
             return True
-        else:
-            return False
+        
+        return False
