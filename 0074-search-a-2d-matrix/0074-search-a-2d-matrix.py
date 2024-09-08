@@ -1,7 +1,10 @@
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        for i in range(len(matrix)):
-            if target in matrix[i]:
-                return True
+        flattened=sorted([item for sublist in matrix for item in sublist])
 
-        return False
+        index=bisect.bisect_left(flattened,target)
+
+        if index<len(flattened) and flattened[index]==target:
+            return True
+        else:
+            return False
