@@ -18,7 +18,6 @@ class Solution:
             new_j=j+directions[curr_d][1]
 
             if (
-                #min(new_i,new_j)<0 or
                 new_i>=m or
                 new_j>=n or
                 matrix[new_i][new_j]!=-1
