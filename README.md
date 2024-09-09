@@ -14,6 +14,7 @@ Author- Mehul Khandelwal
 | [0049-group-anagrams](https://github.com/Mehul-kh2005/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mehul-kh2005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Mehul-kh2005/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -224,6 +225,7 @@ Author- Mehul Khandelwal
 | ------- |
 | [0043-multiply-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Mehul-kh2005/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/Mehul-kh2005/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -338,6 +340,7 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
