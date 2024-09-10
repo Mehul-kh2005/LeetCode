@@ -3,6 +3,9 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+
+from math import gcd
+
 class Solution:
     def insertGreatestCommonDivisors(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if head is None or head.next is None:
@@ -10,11 +13,9 @@ class Solution:
 
         prev=head
         curr=head.next
-        while curr is not None:
-            value=gcd(prev.val,curr.val)
-            new_node=ListNode(value,curr)
-            prev.next=new_node
-
+        while curr:
+            temp=ListNode(gcd(prev.val,curr.val),curr)
+            prev.next=temp
             prev=curr
             curr=curr.next
 
