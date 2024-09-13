@@ -46,6 +46,7 @@ Author- Mehul Khandelwal
 | [0999-regions-cut-by-slashes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1240-stone-game-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Mehul-kh2005/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Mehul-kh2005/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Mehul-kh2005/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -318,6 +319,7 @@ Author- Mehul Khandelwal
 | [0287-find-the-duplicate-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Mehul-kh2005/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/Mehul-kh2005/LeetCode/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Mehul-kh2005/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Binary Search
@@ -458,6 +460,7 @@ Author- Mehul Khandelwal
 | [0238-product-of-array-except-self](https://github.com/Mehul-kh2005/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0814-smallest-rotation-with-highest-score](https://github.com/Mehul-kh2005/LeetCode/tree/master/0814-smallest-rotation-with-highest-score) |
 | [1240-stone-game-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/1240-stone-game-ii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Mehul-kh2005/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mehul-kh2005/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Graph
