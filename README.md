@@ -18,6 +18,7 @@ Author- Mehul Khandelwal
 | [0074-search-a-2d-matrix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Mehul-kh2005/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Mehul-kh2005/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Mehul-kh2005/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -327,12 +328,14 @@ Author- Mehul Khandelwal
 | [0047-permutations-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Mehul-kh2005/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Mehul-kh2005/LeetCode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Mehul-kh2005/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Mehul-kh2005/LeetCode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Mehul-kh2005/LeetCode/tree/master/0371-sum-of-two-integers) |
