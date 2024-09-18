@@ -25,6 +25,7 @@ Author- Mehul Khandelwal
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Mehul-kh2005/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Mehul-kh2005/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0213-house-robber-ii) |
@@ -93,6 +94,7 @@ Author- Mehul Khandelwal
 | [0022-generate-parentheses](https://github.com/Mehul-kh2005/LeetCode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Mehul-kh2005/LeetCode/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/Mehul-kh2005/LeetCode/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Mehul-kh2005/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -184,6 +186,7 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mehul-kh2005/LeetCode/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Mehul-kh2005/LeetCode/tree/master/0295-find-median-from-data-stream) |
@@ -380,6 +383,7 @@ Author- Mehul Khandelwal
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
