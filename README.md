@@ -95,6 +95,7 @@ Author- Mehul Khandelwal
 | [0043-multiply-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Mehul-kh2005/LeetCode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/Mehul-kh2005/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Mehul-kh2005/LeetCode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mehul-kh2005/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Mehul-kh2005/LeetCode/tree/master/0273-integer-to-english-words) |
@@ -529,6 +530,7 @@ Author- Mehul Khandelwal
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Mehul-kh2005/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Mehul-kh2005/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Mehul-kh2005/LeetCode/tree/master/0686-repeated-string-match) |
 ## Ordered Set
@@ -561,4 +563,12 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mehul-kh2005/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Mehul-kh2005/LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Mehul-kh2005/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
