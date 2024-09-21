@@ -421,12 +421,14 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/Mehul-kh2005/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0386-lexicographical-numbers](https://github.com/Mehul-kh2005/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mehul-kh2005/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
