@@ -422,6 +422,7 @@ Author- Mehul Khandelwal
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Mehul-kh2005/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Mehul-kh2005/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Depth-First Search
 |  |
 | ------- |
