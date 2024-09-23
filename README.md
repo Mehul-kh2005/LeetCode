@@ -75,6 +75,7 @@ Author- Mehul Khandelwal
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mehul-kh2005/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2727-number-of-senior-citizens](https://github.com/Mehul-kh2005/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/Mehul-kh2005/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Mehul-kh2005/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -116,6 +117,7 @@ Author- Mehul Khandelwal
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/Mehul-kh2005/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/Mehul-kh2005/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
@@ -149,6 +151,7 @@ Author- Mehul Khandelwal
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mehul-kh2005/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2755-extra-characters-in-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3516-design-neighbor-sum-service](https://github.com/Mehul-kh2005/LeetCode/tree/master/3516-design-neighbor-sum-service) |
@@ -261,6 +264,7 @@ Author- Mehul Khandelwal
 | [1240-stone-game-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/1240-stone-game-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Mehul-kh2005/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2755-extra-characters-in-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -423,6 +427,7 @@ Author- Mehul Khandelwal
 | [0014-longest-common-prefix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Mehul-kh2005/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Mehul-kh2005/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
