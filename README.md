@@ -166,6 +166,7 @@ Author- Mehul Khandelwal
 | [0013-roman-to-integer](https://github.com/Mehul-kh2005/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Mehul-kh2005/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/0043-multiply-strings) |
+| [0070-climbing-stairs](https://github.com/Mehul-kh2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Mehul-kh2005/LeetCode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mehul-kh2005/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -255,6 +256,7 @@ Author- Mehul Khandelwal
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mehul-kh2005/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Mehul-kh2005/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Mehul-kh2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Mehul-kh2005/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Mehul-kh2005/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0213-house-robber-ii) |
@@ -574,6 +576,7 @@ Author- Mehul Khandelwal
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Mehul-kh2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mehul-kh2005/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Rolling Hash
 |  |
