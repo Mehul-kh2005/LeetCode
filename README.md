@@ -87,6 +87,7 @@ Author- Mehul Khandelwal
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/Mehul-kh2005/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Mehul-kh2005/LeetCode/tree/master/3528-reach-end-of-array-with-max-score) |
+| [3541-report-spam-message](https://github.com/Mehul-kh2005/LeetCode/tree/master/3541-report-spam-message) |
 ## String
 |  |
 | ------- |
@@ -125,6 +126,7 @@ Author- Mehul Khandelwal
 | [3194-find-words-containing-character](https://github.com/Mehul-kh2005/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Mehul-kh2005/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3541-report-spam-message](https://github.com/Mehul-kh2005/LeetCode/tree/master/3541-report-spam-message) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +164,7 @@ Author- Mehul Khandelwal
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3516-design-neighbor-sum-service](https://github.com/Mehul-kh2005/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3519-find-the-number-of-winning-players](https://github.com/Mehul-kh2005/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
+| [3541-report-spam-message](https://github.com/Mehul-kh2005/LeetCode/tree/master/3541-report-spam-message) |
 ## Math
 |  |
 | ------- |
