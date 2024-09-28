@@ -65,6 +65,7 @@ Author- Mehul Khandelwal
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Mehul-kh2005/LeetCode/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Mehul-kh2005/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1767-design-front-middle-back-queue](https://github.com/Mehul-kh2005/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1830-count-good-meals](https://github.com/Mehul-kh2005/LeetCode/tree/master/1830-count-good-meals) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mehul-kh2005/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -243,6 +244,7 @@ Author- Mehul Khandelwal
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/Mehul-kh2005/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1765-merge-in-between-linked-lists](https://github.com/Mehul-kh2005/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
+| [1767-design-front-middle-back-queue](https://github.com/Mehul-kh2005/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/Mehul-kh2005/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -258,6 +260,7 @@ Author- Mehul Khandelwal
 | [0838-design-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/Mehul-kh2005/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Mehul-kh2005/LeetCode/tree/master/0860-design-circular-queue) |
+| [1767-design-front-middle-back-queue](https://github.com/Mehul-kh2005/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1953-finding-mk-average](https://github.com/Mehul-kh2005/LeetCode/tree/master/1953-finding-mk-average) |
 | [2207-sequentially-ordinal-rank-tracker](https://github.com/Mehul-kh2005/LeetCode/tree/master/2207-sequentially-ordinal-rank-tracker) |
 | [3516-design-neighbor-sum-service](https://github.com/Mehul-kh2005/LeetCode/tree/master/3516-design-neighbor-sum-service) |
@@ -315,6 +318,7 @@ Author- Mehul Khandelwal
 | [0239-sliding-window-maximum](https://github.com/Mehul-kh2005/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/Mehul-kh2005/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Mehul-kh2005/LeetCode/tree/master/0860-design-circular-queue) |
+| [1767-design-front-middle-back-queue](https://github.com/Mehul-kh2005/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1953-finding-mk-average](https://github.com/Mehul-kh2005/LeetCode/tree/master/1953-finding-mk-average) |
 ## Heap (Priority Queue)
 |  |
@@ -535,6 +539,7 @@ Author- Mehul Khandelwal
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Mehul-kh2005/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mehul-kh2005/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1767-design-front-middle-back-queue](https://github.com/Mehul-kh2005/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1953-finding-mk-average](https://github.com/Mehul-kh2005/LeetCode/tree/master/1953-finding-mk-average) |
 | [2207-sequentially-ordinal-rank-tracker](https://github.com/Mehul-kh2005/LeetCode/tree/master/2207-sequentially-ordinal-rank-tracker) |
 ## Prefix Sum
