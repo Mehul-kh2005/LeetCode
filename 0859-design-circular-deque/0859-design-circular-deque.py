@@ -14,7 +14,6 @@ class MyCircularDeque:
             self.deque[self.front]=value
             self.count+=1
             return True
-
         return False
 
 
@@ -24,7 +23,6 @@ class MyCircularDeque:
             self.deque[self.rear]=value
             self.count+=1
             return True
-            
         return False
             
 
@@ -32,8 +30,7 @@ class MyCircularDeque:
         if self.count>0:
             self.front=(self.front+1)%self.k
             self.count-=1
-            return True
-            
+            return True        
         return False
 
 
@@ -41,8 +38,7 @@ class MyCircularDeque:
         if self.count>0:
             self.rear=(self.rear+self.k-1)%self.k
             self.count-=1
-            return True
-            
+            return True  
         return False
 
 
