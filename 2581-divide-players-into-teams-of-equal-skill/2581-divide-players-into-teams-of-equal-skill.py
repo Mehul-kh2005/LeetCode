@@ -1,17 +1,12 @@
-from bisect import insort
-
 class Solution:
     def dividePlayers(self, skill: List[int]) -> int:
-        sorted_arr=[]
+        skill.sort()
         total_chemistry=0
-        for s in skill:
-            insort(sorted_arr,s)
-
-        target_sum=sorted_arr[0]+sorted_arr[-1]
+        target_sum=skill[0]+skill[-1]
         
-        for i in range(len(sorted_arr)//2):
-            if sorted_arr[i]+sorted_arr[-i-1]!=target_sum:
+        for i in range(len(skill)//2):
+            if skill[i]+skill[-i-1]!=target_sum:
                 return -1
-            total_chemistry+=sorted_arr[i]*sorted_arr[-i-1]
+            total_chemistry+=skill[i]*skill[-i-1]
 
         return total_chemistry
