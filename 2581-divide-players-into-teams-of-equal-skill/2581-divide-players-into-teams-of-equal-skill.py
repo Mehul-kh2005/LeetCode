@@ -7,6 +7,7 @@ class Solution:
         for s in skill:
             bisect.insort(sorted_arr,s)
 
+        del(skill)
         target_sum=sorted_arr[0]+sorted_arr[-1]
         
         for i in range(len(sorted_arr)//2):
