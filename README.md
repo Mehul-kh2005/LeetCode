@@ -40,6 +40,7 @@ Author- Mehul Khandelwal
 | [0287-find-the-duplicate-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Mehul-kh2005/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0413-arithmetic-slices](https://github.com/Mehul-kh2005/LeetCode/tree/master/0413-arithmetic-slices) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Mehul-kh2005/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0480-sliding-window-median](https://github.com/Mehul-kh2005/LeetCode/tree/master/0480-sliding-window-median) |
 | [0539-minimum-time-difference](https://github.com/Mehul-kh2005/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
@@ -199,6 +200,7 @@ Author- Mehul Khandelwal
 | [0273-integer-to-english-words](https://github.com/Mehul-kh2005/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0371-sum-of-two-integers](https://github.com/Mehul-kh2005/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/Mehul-kh2005/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Mehul-kh2005/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0539-minimum-time-difference](https://github.com/Mehul-kh2005/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Mehul-kh2005/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Mehul-kh2005/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
