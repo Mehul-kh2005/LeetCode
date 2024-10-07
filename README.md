@@ -140,6 +140,7 @@ Author- Mehul Khandelwal
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2727-number-of-senior-citizens](https://github.com/Mehul-kh2005/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Mehul-kh2005/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3194-find-words-containing-character](https://github.com/Mehul-kh2005/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Mehul-kh2005/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -335,6 +336,7 @@ Author- Mehul Khandelwal
 | [2155-find-missing-observations](https://github.com/Mehul-kh2005/LeetCode/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Mehul-kh2005/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2470-removing-stars-from-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Mehul-kh2005/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Mehul-kh2005/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3516-design-neighbor-sum-service](https://github.com/Mehul-kh2005/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Queue
@@ -395,6 +397,7 @@ Author- Mehul Khandelwal
 | [1497-design-a-stack-with-increment-operation](https://github.com/Mehul-kh2005/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Mehul-kh2005/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Backtracking
 |  |
 | ------- |
