@@ -59,6 +59,7 @@ Author- Mehul Khandelwal
 | [0906-walking-robot-simulation](https://github.com/Mehul-kh2005/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1002-maximum-width-ramp](https://github.com/Mehul-kh2005/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1240-stone-game-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Mehul-kh2005/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -399,6 +400,7 @@ Author- Mehul Khandelwal
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mehul-kh2005/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Mehul-kh2005/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Mehul-kh2005/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Mehul-kh2005/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mehul-kh2005/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -673,6 +675,7 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Mehul-kh2005/LeetCode/tree/master/0739-daily-temperatures) |
+| [1002-maximum-width-ramp](https://github.com/Mehul-kh2005/LeetCode/tree/master/1002-maximum-width-ramp) |
 ## Segment Tree
 |  |
 | ------- |
