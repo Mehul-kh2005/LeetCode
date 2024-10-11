@@ -80,6 +80,7 @@ Author- Mehul Khandelwal
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mehul-kh2005/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Mehul-kh2005/LeetCode/tree/master/2035-count-sub-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Mehul-kh2005/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Mehul-kh2005/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Mehul-kh2005/LeetCode/tree/master/2155-find-missing-observations) |
@@ -181,6 +182,7 @@ Author- Mehul Khandelwal
 | [1694-make-sum-divisible-by-p](https://github.com/Mehul-kh2005/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1830-count-good-meals](https://github.com/Mehul-kh2005/LeetCode/tree/master/1830-count-good-meals) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Mehul-kh2005/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mehul-kh2005/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mehul-kh2005/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -364,6 +366,7 @@ Author- Mehul Khandelwal
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mehul-kh2005/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/Mehul-kh2005/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1953-finding-mk-average](https://github.com/Mehul-kh2005/LeetCode/tree/master/1953-finding-mk-average) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Mehul-kh2005/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2207-sequentially-ordinal-rank-tracker](https://github.com/Mehul-kh2005/LeetCode/tree/master/2207-sequentially-ordinal-rank-tracker) |
 | [2803-modify-graph-edge-weights](https://github.com/Mehul-kh2005/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 ## Monotonic Queue
