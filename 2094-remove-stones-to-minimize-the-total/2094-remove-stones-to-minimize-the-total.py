@@ -5,7 +5,7 @@ class Solution:
         piles=[-pile for pile in piles]
         heapq.heapify(piles)
 
-        while k!=0:
+        while k>0:
             max_ele=-heapq.heappop(piles)
             remaining_stones=max_ele-(max_ele//2)  
             heapq.heappush(piles,-remaining_stones)
