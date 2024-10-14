@@ -94,6 +94,7 @@ Author- Mehul Khandelwal
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Mehul-kh2005/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mehul-kh2005/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mehul-kh2005/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Mehul-kh2005/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2727-number-of-senior-citizens](https://github.com/Mehul-kh2005/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -376,6 +377,7 @@ Author- Mehul Khandelwal
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Mehul-kh2005/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2207-sequentially-ordinal-rank-tracker](https://github.com/Mehul-kh2005/LeetCode/tree/master/2207-sequentially-ordinal-rank-tracker) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mehul-kh2005/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Mehul-kh2005/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/Mehul-kh2005/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 ## Monotonic Queue
 |  |
@@ -490,6 +492,7 @@ Author- Mehul Khandelwal
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mehul-kh2005/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mehul-kh2005/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mehul-kh2005/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Mehul-kh2005/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Mehul-kh2005/LeetCode/tree/master/3528-reach-end-of-array-with-max-score) |
