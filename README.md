@@ -97,6 +97,7 @@ Author- Mehul Khandelwal
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Mehul-kh2005/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mehul-kh2005/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Mehul-kh2005/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mehul-kh2005/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Mehul-kh2005/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -584,6 +585,7 @@ Author- Mehul Khandelwal
 | [1484-linked-list-in-binary-tree](https://github.com/Mehul-kh2005/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Mehul-kh2005/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Mehul-kh2005/LeetCode/tree/master/2035-count-sub-islands) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Mehul-kh2005/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -597,6 +599,7 @@ Author- Mehul Khandelwal
 | [1484-linked-list-in-binary-tree](https://github.com/Mehul-kh2005/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Mehul-kh2005/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Mehul-kh2005/LeetCode/tree/master/2035-count-sub-islands) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Mehul-kh2005/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Mehul-kh2005/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -627,6 +630,7 @@ Author- Mehul Khandelwal
 | [0988-flip-equivalent-binary-trees](https://github.com/Mehul-kh2005/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mehul-kh2005/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Mehul-kh2005/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Mehul-kh2005/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Mehul-kh2005/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
@@ -646,6 +650,7 @@ Author- Mehul Khandelwal
 | [0988-flip-equivalent-binary-trees](https://github.com/Mehul-kh2005/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mehul-kh2005/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Mehul-kh2005/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Mehul-kh2005/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Mehul-kh2005/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Data Stream
