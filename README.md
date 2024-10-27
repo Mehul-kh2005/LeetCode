@@ -65,6 +65,7 @@ Author- Mehul Khandelwal
 | [1256-rank-transform-of-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Mehul-kh2005/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mehul-kh2005/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Mehul-kh2005/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mehul-kh2005/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Mehul-kh2005/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -347,6 +348,7 @@ Author- Mehul Khandelwal
 | [0664-strange-printer](https://github.com/Mehul-kh2005/LeetCode/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1240-stone-game-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/1240-stone-game-ii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Mehul-kh2005/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Mehul-kh2005/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2755-extra-characters-in-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -552,6 +554,7 @@ Author- Mehul Khandelwal
 | [0870-magic-squares-in-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Mehul-kh2005/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Mehul-kh2005/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Mehul-kh2005/LeetCode/tree/master/2035-count-sub-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/2047-find-a-peak-element-ii) |
