@@ -105,6 +105,7 @@ Author- Mehul Khandelwal
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2727-number-of-senior-citizens](https://github.com/Mehul-kh2005/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3194-find-words-containing-character](https://github.com/Mehul-kh2005/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Mehul-kh2005/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -357,6 +358,7 @@ Author- Mehul Khandelwal
 | [2067-maximum-number-of-points-with-cost](https://github.com/Mehul-kh2005/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -566,6 +568,7 @@ Author- Mehul Khandelwal
 | [2047-find-a-peak-element-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Mehul-kh2005/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3516-design-neighbor-sum-service](https://github.com/Mehul-kh2005/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Trie
 |  |
