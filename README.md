@@ -145,6 +145,7 @@ Author- Mehul Khandelwal
 | [0664-strange-printer](https://github.com/Mehul-kh2005/LeetCode/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Mehul-kh2005/LeetCode/tree/master/0686-repeated-string-match) |
+| [0812-rotate-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Mehul-kh2005/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mehul-kh2005/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mehul-kh2005/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -724,6 +725,7 @@ Author- Mehul Khandelwal
 | [0214-shortest-palindrome](https://github.com/Mehul-kh2005/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Mehul-kh2005/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Mehul-kh2005/LeetCode/tree/master/0686-repeated-string-match) |
+| [0812-rotate-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0812-rotate-string) |
 ## Ordered Set
 |  |
 | ------- |
