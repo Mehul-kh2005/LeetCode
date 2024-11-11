@@ -94,6 +94,7 @@ Author- Mehul Khandelwal
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mehul-kh2005/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Mehul-kh2005/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Mehul-kh2005/LeetCode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2411-spiral-matrix-iv](https://github.com/Mehul-kh2005/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mehul-kh2005/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -212,6 +213,7 @@ Author- Mehul Khandelwal
 | [1830-count-good-meals](https://github.com/Mehul-kh2005/LeetCode/tree/master/1830-count-good-meals) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Mehul-kh2005/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Mehul-kh2005/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mehul-kh2005/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mehul-kh2005/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -500,6 +502,7 @@ Author- Mehul Khandelwal
 | [1940-maximum-xor-for-each-query](https://github.com/Mehul-kh2005/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mehul-kh2005/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Mehul-kh2005/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Mehul-kh2005/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Mehul-kh2005/LeetCode/tree/master/3394-minimum-array-end) |
@@ -536,6 +539,7 @@ Author- Mehul Khandelwal
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Mehul-kh2005/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Mehul-kh2005/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3519-find-the-number-of-winning-players](https://github.com/Mehul-kh2005/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
