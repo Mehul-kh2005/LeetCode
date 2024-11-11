@@ -500,6 +500,7 @@ Author- Mehul Khandelwal
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Mehul-kh2005/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3394-minimum-array-end](https://github.com/Mehul-kh2005/LeetCode/tree/master/3394-minimum-array-end) |
 ## Binary Search
 |  |
 | ------- |
