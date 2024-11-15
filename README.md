@@ -74,6 +74,7 @@ Author- Mehul Khandelwal
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Mehul-kh2005/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Mehul-kh2005/LeetCode/tree/master/1657-find-the-winner-of-an-array-game) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Mehul-kh2005/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mehul-kh2005/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -454,6 +455,7 @@ Author- Mehul Khandelwal
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mehul-kh2005/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0874-backspace-string-compare](https://github.com/Mehul-kh2005/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Mehul-kh2005/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mehul-kh2005/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -480,6 +482,7 @@ Author- Mehul Khandelwal
 | [1197-parsing-a-boolean-expression](https://github.com/Mehul-kh2005/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Mehul-kh2005/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Mehul-kh2005/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mehul-kh2005/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -538,6 +541,7 @@ Author- Mehul Khandelwal
 | [0732-my-calendar-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0732-my-calendar-iii) |
 | [0907-koko-eating-bananas](https://github.com/Mehul-kh2005/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Mehul-kh2005/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mehul-kh2005/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/2047-find-a-peak-element-ii) |
@@ -806,6 +810,7 @@ Author- Mehul Khandelwal
 | ------- |
 | [0739-daily-temperatures](https://github.com/Mehul-kh2005/LeetCode/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/Mehul-kh2005/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Segment Tree
 |  |
 | ------- |
