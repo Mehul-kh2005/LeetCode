@@ -2,7 +2,7 @@ class Solution:
     def rotateTheBox(self, box: List[List[str]]) -> List[List[str]]:
         m=len(box)
         n=len(box[0])
-        result=[[0]*m for _ in range(n)]
+        result=[[""]*m for _ in range(n)]
 
         for i in range(m):
             for j in range(n):
