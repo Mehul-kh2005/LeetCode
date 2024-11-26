@@ -770,6 +770,7 @@ Author- Mehul Khandelwal
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mehul-kh2005/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/Mehul-kh2005/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/Mehul-kh2005/LeetCode/tree/master/2803-modify-graph-edge-weights) |
+| [3189-find-champion-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Game Theory
 |  |
