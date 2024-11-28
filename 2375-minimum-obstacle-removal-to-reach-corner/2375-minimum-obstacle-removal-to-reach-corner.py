@@ -14,6 +14,9 @@ class Solution:
         while dq:
             obstacle,row,col=dq.popleft()
 
+            if (row,col)==(m-1,n-1):
+                return obstacle
+
             for dr,dc in directions:
                 new_row,new_col=row+dr,col+dc
 
@@ -25,5 +28,3 @@ class Solution:
                     else:
                         minimumObstacles[new_row][new_col]=obstacle
                         dq.appendleft((obstacle,new_row,new_col))
-
-        return minimumObstacles[m-1][n-1]
