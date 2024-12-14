@@ -135,6 +135,7 @@ Author- Mehul Khandelwal
 | [2727-number-of-senior-citizens](https://github.com/Mehul-kh2005/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2868-continuous-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Mehul-kh2005/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3194-find-words-containing-character](https://github.com/Mehul-kh2005/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -403,6 +404,7 @@ Author- Mehul Khandelwal
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mehul-kh2005/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Mehul-kh2005/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2868-continuous-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Mehul-kh2005/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -470,6 +472,7 @@ Author- Mehul Khandelwal
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mehul-kh2005/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1767-design-front-middle-back-queue](https://github.com/Mehul-kh2005/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1953-finding-mk-average](https://github.com/Mehul-kh2005/LeetCode/tree/master/1953-finding-mk-average) |
+| [2868-continuous-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -498,12 +501,14 @@ Author- Mehul Khandelwal
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mehul-kh2005/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Mehul-kh2005/LeetCode/tree/master/2803-modify-graph-edge-weights) |
+| [2868-continuous-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mehul-kh2005/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mehul-kh2005/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2868-continuous-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -871,6 +876,7 @@ Author- Mehul Khandelwal
 | [0732-my-calendar-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0732-my-calendar-iii) |
 | [1953-finding-mk-average](https://github.com/Mehul-kh2005/LeetCode/tree/master/1953-finding-mk-average) |
 | [2207-sequentially-ordinal-rank-tracker](https://github.com/Mehul-kh2005/LeetCode/tree/master/2207-sequentially-ordinal-rank-tracker) |
+| [2868-continuous-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
