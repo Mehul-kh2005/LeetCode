@@ -152,6 +152,7 @@ Author- Mehul Khandelwal
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Mehul-kh2005/LeetCode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3541-report-spam-message](https://github.com/Mehul-kh2005/LeetCode/tree/master/3541-report-spam-message) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
@@ -307,6 +308,7 @@ Author- Mehul Khandelwal
 | [2716-prime-subtraction-operation](https://github.com/Mehul-kh2005/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3371-harshad-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/3371-harshad-number) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Geometry
 |  |
 | ------- |
@@ -464,6 +466,7 @@ Author- Mehul Khandelwal
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Mehul-kh2005/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3516-design-neighbor-sum-service](https://github.com/Mehul-kh2005/LeetCode/tree/master/3516-design-neighbor-sum-service) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Queue
 |  |
 | ------- |
@@ -505,6 +508,7 @@ Author- Mehul Khandelwal
 | [2803-modify-graph-edge-weights](https://github.com/Mehul-kh2005/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 | [2868-continuous-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Monotonic Queue
 |  |
 | ------- |
