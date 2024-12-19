@@ -53,6 +53,7 @@ Author- Mehul Khandelwal
 | [0729-my-calendar-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/Mehul-kh2005/LeetCode/tree/master/0739-daily-temperatures) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Mehul-kh2005/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0814-smallest-rotation-with-highest-score](https://github.com/Mehul-kh2005/LeetCode/tree/master/0814-smallest-rotation-with-highest-score) |
 | [0835-linked-list-components](https://github.com/Mehul-kh2005/LeetCode/tree/master/0835-linked-list-components) |
@@ -330,6 +331,7 @@ Author- Mehul Khandelwal
 | [0539-minimum-time-difference](https://github.com/Mehul-kh2005/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mehul-kh2005/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mehul-kh2005/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1256-rank-transform-of-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mehul-kh2005/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -561,6 +563,7 @@ Author- Mehul Khandelwal
 | [0739-daily-temperatures](https://github.com/Mehul-kh2005/LeetCode/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/Mehul-kh2005/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mehul-kh2005/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Mehul-kh2005/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -668,6 +671,7 @@ Author- Mehul Khandelwal
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mehul-kh2005/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Mehul-kh2005/LeetCode/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mehul-kh2005/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -929,6 +933,7 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Mehul-kh2005/LeetCode/tree/master/0739-daily-temperatures) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Mehul-kh2005/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mehul-kh2005/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
