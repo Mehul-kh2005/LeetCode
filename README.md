@@ -140,6 +140,7 @@ Author- Mehul Khandelwal
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Mehul-kh2005/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mehul-kh2005/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3194-find-words-containing-character](https://github.com/Mehul-kh2005/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Mehul-kh2005/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -513,6 +514,7 @@ Author- Mehul Khandelwal
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Mehul-kh2005/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 | [2868-continuous-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mehul-kh2005/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Monotonic Queue
@@ -576,6 +578,7 @@ Author- Mehul Khandelwal
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mehul-kh2005/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mehul-kh2005/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Backtracking
 |  |
 | ------- |
@@ -645,6 +648,7 @@ Author- Mehul Khandelwal
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mehul-kh2005/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Mehul-kh2005/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Mehul-kh2005/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mehul-kh2005/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3427-special-array-ii) |
 ## Counting
@@ -943,12 +947,14 @@ Author- Mehul Khandelwal
 | [1002-maximum-width-ramp](https://github.com/Mehul-kh2005/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mehul-kh2005/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mehul-kh2005/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0732-my-calendar-iii) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mehul-kh2005/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -961,4 +967,8 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/Mehul-kh2005/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mehul-kh2005/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
