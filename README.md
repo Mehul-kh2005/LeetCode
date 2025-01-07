@@ -79,6 +79,7 @@ Author- Mehul Khandelwal
 | [1435-xor-queries-of-a-subarray](https://github.com/Mehul-kh2005/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mehul-kh2005/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Mehul-kh2005/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1524-string-matching-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mehul-kh2005/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Mehul-kh2005/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -203,6 +204,7 @@ Author- Mehul Khandelwal
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mehul-kh2005/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Mehul-kh2005/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Mehul-kh2005/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1524-string-matching-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Mehul-kh2005/LeetCode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mehul-kh2005/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -935,6 +937,7 @@ Author- Mehul Khandelwal
 | [0459-repeated-substring-pattern](https://github.com/Mehul-kh2005/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Mehul-kh2005/LeetCode/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mehul-kh2005/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Mehul-kh2005/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Ordered Set
