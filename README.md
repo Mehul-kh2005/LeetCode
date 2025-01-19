@@ -40,6 +40,7 @@ Author- Mehul Khandelwal
 | [0268-missing-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Mehul-kh2005/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0413-arithmetic-slices](https://github.com/Mehul-kh2005/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mehul-kh2005/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -523,6 +524,7 @@ Author- Mehul Khandelwal
 | [0264-ugly-number-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Mehul-kh2005/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Mehul-kh2005/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Mehul-kh2005/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/Mehul-kh2005/LeetCode/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mehul-kh2005/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -747,6 +749,7 @@ Author- Mehul Khandelwal
 | [0059-spiral-matrix-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Mehul-kh2005/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -806,6 +809,7 @@ Author- Mehul Khandelwal
 | [0102-binary-tree-level-order-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mehul-kh2005/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0787-sliding-puzzle](https://github.com/Mehul-kh2005/LeetCode/tree/master/0787-sliding-puzzle) |
