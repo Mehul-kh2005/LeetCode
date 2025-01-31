@@ -60,6 +60,7 @@ Author- Mehul Khandelwal
 | [0787-sliding-puzzle](https://github.com/Mehul-kh2005/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0814-smallest-rotation-with-highest-score](https://github.com/Mehul-kh2005/LeetCode/tree/master/0814-smallest-rotation-with-highest-score) |
 | [0835-linked-list-components](https://github.com/Mehul-kh2005/LeetCode/tree/master/0835-linked-list-components) |
+| [0854-making-a-large-island](https://github.com/Mehul-kh2005/LeetCode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Mehul-kh2005/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Mehul-kh2005/LeetCode/tree/master/0860-design-circular-queue) |
 | [0870-magic-squares-in-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -771,6 +772,7 @@ Author- Mehul Khandelwal
 | [0240-search-a-2d-matrix-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Mehul-kh2005/LeetCode/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/Mehul-kh2005/LeetCode/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -817,6 +819,7 @@ Author- Mehul Khandelwal
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/Mehul-kh2005/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Mehul-kh2005/LeetCode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mehul-kh2005/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Mehul-kh2005/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -847,6 +850,7 @@ Author- Mehul Khandelwal
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0787-sliding-puzzle](https://github.com/Mehul-kh2005/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/Mehul-kh2005/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Mehul-kh2005/LeetCode/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mehul-kh2005/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Mehul-kh2005/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -872,6 +876,7 @@ Author- Mehul Khandelwal
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mehul-kh2005/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/Mehul-kh2005/LeetCode/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/Mehul-kh2005/LeetCode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mehul-kh2005/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/Mehul-kh2005/LeetCode/tree/master/1396-count-servers-that-communicate) |
