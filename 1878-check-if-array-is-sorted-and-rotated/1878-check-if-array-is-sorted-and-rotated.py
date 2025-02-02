@@ -1,9 +1,11 @@
 class Solution:
     def check(self, nums: List[int]) -> bool:
-        lst=sorted(nums.copy())
+        inversion_count=0
+        for i in range(1,len(nums)):
+            if nums[i-1]>nums[i]:
+                inversion_count+=1
 
-        for i in range(len(nums)):
-            nums[:]=nums[-1:]+nums[:-1]
-            if lst==nums:
-                return True
-        return False
+        if nums[0]<nums[-1]:
+            inversion_count+=1
+            
+        return inversion_count<=1
