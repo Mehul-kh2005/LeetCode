@@ -83,6 +83,7 @@ Author- Mehul Khandelwal
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mehul-kh2005/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mehul-kh2005/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mehul-kh2005/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Mehul-kh2005/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Mehul-kh2005/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -360,6 +361,7 @@ Author- Mehul Khandelwal
 | [0670-maximum-swap](https://github.com/Mehul-kh2005/LeetCode/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/1240-stone-game-ii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Mehul-kh2005/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2155-find-missing-observations](https://github.com/Mehul-kh2005/LeetCode/tree/master/2155-find-missing-observations) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Mehul-kh2005/LeetCode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
@@ -450,6 +452,7 @@ Author- Mehul Khandelwal
 | [0838-design-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/Mehul-kh2005/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Mehul-kh2005/LeetCode/tree/master/0860-design-circular-queue) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Mehul-kh2005/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Mehul-kh2005/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1767-design-front-middle-back-queue](https://github.com/Mehul-kh2005/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1953-finding-mk-average](https://github.com/Mehul-kh2005/LeetCode/tree/master/1953-finding-mk-average) |
@@ -963,6 +966,7 @@ Author- Mehul Khandelwal
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Mehul-kh2005/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mehul-kh2005/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Mehul-kh2005/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1767-design-front-middle-back-queue](https://github.com/Mehul-kh2005/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1953-finding-mk-average](https://github.com/Mehul-kh2005/LeetCode/tree/master/1953-finding-mk-average) |
 | [2207-sequentially-ordinal-rank-tracker](https://github.com/Mehul-kh2005/LeetCode/tree/master/2207-sequentially-ordinal-rank-tracker) |
@@ -977,6 +981,7 @@ Author- Mehul Khandelwal
 | [1240-stone-game-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mehul-kh2005/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Mehul-kh2005/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Mehul-kh2005/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mehul-kh2005/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
