@@ -198,6 +198,7 @@ Author- Mehul Khandelwal
 | [3427-special-array-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Mehul-kh2005/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3516-design-neighbor-sum-service](https://github.com/Mehul-kh2005/LeetCode/tree/master/3516-design-neighbor-sum-service) |
@@ -530,6 +531,7 @@ Author- Mehul Khandelwal
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Mehul-kh2005/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -611,6 +613,7 @@ Author- Mehul Khandelwal
 | [1767-design-front-middle-back-queue](https://github.com/Mehul-kh2005/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1953-finding-mk-average](https://github.com/Mehul-kh2005/LeetCode/tree/master/1953-finding-mk-average) |
 | [2868-continuous-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -767,6 +770,7 @@ Author- Mehul Khandelwal
 | [3291-find-if-array-can-be-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Mehul-kh2005/LeetCode/tree/master/3394-minimum-array-end) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -1095,6 +1099,7 @@ Author- Mehul Khandelwal
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mehul-kh2005/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Mehul-kh2005/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3427-special-array-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Graph
 |  |
