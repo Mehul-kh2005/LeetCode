@@ -48,6 +48,7 @@ Author- Mehul Khandelwal
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mehul-kh2005/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0480-sliding-window-median](https://github.com/Mehul-kh2005/LeetCode/tree/master/0480-sliding-window-median) |
+| [0485-max-consecutive-ones](https://github.com/Mehul-kh2005/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/Mehul-kh2005/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
