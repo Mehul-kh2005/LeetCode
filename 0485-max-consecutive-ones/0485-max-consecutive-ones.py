@@ -5,9 +5,8 @@ class Solution:
         for num in nums:
             if num==1:
                 curr_max+=1
+            else:
+                curr_max=0
             total_max=max(total_max,curr_max)
-
-            if num!=1:
-                curr_max=0        
 
         return total_max
