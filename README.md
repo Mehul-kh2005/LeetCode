@@ -18,6 +18,7 @@ Author- Mehul Khandelwal
 | [0054-spiral-matrix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Mehul-kh2005/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Mehul-kh2005/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0090-subsets-ii) |
@@ -454,6 +455,7 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mehul-kh2005/LeetCode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Mehul-kh2005/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Mehul-kh2005/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -703,6 +705,7 @@ Author- Mehul Khandelwal
 | ------- |
 | [0031-next-permutation](https://github.com/Mehul-kh2005/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Mehul-kh2005/LeetCode/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0189-rotate-array) |
