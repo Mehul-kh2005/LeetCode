@@ -149,6 +149,7 @@ Author- Mehul Khandelwal
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/Mehul-kh2005/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mehul-kh2005/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Mehul-kh2005/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Mehul-kh2005/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mehul-kh2005/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -638,6 +639,7 @@ Author- Mehul Khandelwal
 | [2155-find-missing-observations](https://github.com/Mehul-kh2005/LeetCode/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mehul-kh2005/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Mehul-kh2005/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Mehul-kh2005/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2470-removing-stars-from-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -735,6 +737,7 @@ Author- Mehul Khandelwal
 | [2232-adding-spaces-to-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mehul-kh2005/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Mehul-kh2005/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mehul-kh2005/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2551-apply-operations-to-an-array) |
