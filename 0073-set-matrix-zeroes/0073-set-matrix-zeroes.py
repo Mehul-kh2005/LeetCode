@@ -11,9 +11,10 @@ class Solution:
                     rowPos.append(row)
                     colPos.append(col)
 
-        for row,col in zip(rowPos,colPos):
-            for i in range(n):
-                matrix[i][col]=0
-
+        for row in rowPos:
             for j in range(m):
                 matrix[row][j]=0
+
+        for col in colPos:
+            for i in range(n):
+                matrix[i][col]=0
