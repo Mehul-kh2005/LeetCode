@@ -13,6 +13,7 @@ Author- Mehul Khandelwal
 | [0041-first-missing-positive](https://github.com/Mehul-kh2005/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Mehul-kh2005/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Mehul-kh2005/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mehul-kh2005/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mehul-kh2005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0054-spiral-matrix) |
@@ -430,6 +431,7 @@ Author- Mehul Khandelwal
 | [0013-roman-to-integer](https://github.com/Mehul-kh2005/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Mehul-kh2005/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Mehul-kh2005/LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Mehul-kh2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Mehul-kh2005/LeetCode/tree/master/0224-basic-calculator) |
@@ -964,6 +966,7 @@ Author- Mehul Khandelwal
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Mehul-kh2005/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0073-set-matrix-zeroes) |
