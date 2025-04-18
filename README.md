@@ -247,6 +247,7 @@ Author- Mehul Khandelwal
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Mehul-kh2005/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Mehul-kh2005/LeetCode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/Mehul-kh2005/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Mehul-kh2005/LeetCode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0179-largest-number) |
