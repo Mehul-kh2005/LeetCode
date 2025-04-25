@@ -42,6 +42,7 @@ Author- Mehul Khandelwal
 | [0213-house-robber-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Mehul-kh2005/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Mehul-kh2005/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -354,6 +355,7 @@ Author- Mehul Khandelwal
 | [0128-longest-consecutive-sequence](https://github.com/Mehul-kh2005/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Mehul-kh2005/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Mehul-kh2005/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -497,6 +499,7 @@ Author- Mehul Khandelwal
 | [0169-majority-element](https://github.com/Mehul-kh2005/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Mehul-kh2005/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Mehul-kh2005/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -915,6 +918,7 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mehul-kh2005/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Mehul-kh2005/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Mehul-kh2005/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mehul-kh2005/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
