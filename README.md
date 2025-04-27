@@ -8,6 +8,7 @@ Author- Mehul Khandelwal
 | ------- |
 | [0001-two-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Mehul-kh2005/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Mehul-kh2005/LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -499,6 +500,7 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Mehul-kh2005/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Mehul-kh2005/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Mehul-kh2005/LeetCode/tree/master/0075-sort-colors) |
@@ -763,6 +765,7 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Mehul-kh2005/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Mehul-kh2005/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/0061-rotate-list) |
