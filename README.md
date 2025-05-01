@@ -153,6 +153,7 @@ Author- Mehul Khandelwal
 | [2164-two-best-non-overlapping-events](https://github.com/Mehul-kh2005/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mehul-kh2005/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mehul-kh2005/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Mehul-kh2005/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mehul-kh2005/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mehul-kh2005/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -530,6 +531,7 @@ Author- Mehul Khandelwal
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mehul-kh2005/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mehul-kh2005/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Mehul-kh2005/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Mehul-kh2005/LeetCode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mehul-kh2005/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mehul-kh2005/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -717,6 +719,7 @@ Author- Mehul Khandelwal
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mehul-kh2005/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1767-design-front-middle-back-queue](https://github.com/Mehul-kh2005/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1953-finding-mk-average](https://github.com/Mehul-kh2005/LeetCode/tree/master/1953-finding-mk-average) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Mehul-kh2005/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Mehul-kh2005/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -765,6 +768,7 @@ Author- Mehul Khandelwal
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mehul-kh2005/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mehul-kh2005/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Mehul-kh2005/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Mehul-kh2005/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Two Pointers
@@ -920,6 +924,7 @@ Author- Mehul Khandelwal
 | [2047-find-a-peak-element-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mehul-kh2005/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mehul-kh2005/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Mehul-kh2005/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mehul-kh2005/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Mehul-kh2005/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -980,6 +985,7 @@ Author- Mehul Khandelwal
 | [2089-maximum-matrix-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Mehul-kh2005/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mehul-kh2005/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Mehul-kh2005/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Mehul-kh2005/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Mehul-kh2005/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
