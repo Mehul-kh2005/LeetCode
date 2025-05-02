@@ -284,6 +284,7 @@ Author- Mehul Khandelwal
 | [0686-repeated-string-match](https://github.com/Mehul-kh2005/LeetCode/tree/master/0686-repeated-string-match) |
 | [0768-partition-labels](https://github.com/Mehul-kh2005/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Mehul-kh2005/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mehul-kh2005/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Mehul-kh2005/LeetCode/tree/master/0952-word-subsets) |
@@ -657,6 +658,7 @@ Author- Mehul Khandelwal
 | [0664-strange-printer](https://github.com/Mehul-kh2005/LeetCode/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0868-push-dominoes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mehul-kh2005/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/Mehul-kh2005/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Mehul-kh2005/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -790,6 +792,7 @@ Author- Mehul Khandelwal
 | [0567-permutation-in-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mehul-kh2005/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/Mehul-kh2005/LeetCode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Mehul-kh2005/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0979-di-string-match](https://github.com/Mehul-kh2005/LeetCode/tree/master/0979-di-string-match) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mehul-kh2005/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
