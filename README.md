@@ -373,6 +373,7 @@ Author- Mehul Khandelwal
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Mehul-kh2005/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Mehul-kh2005/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mehul-kh2005/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3451-string-compression-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3451-string-compression-iii) |
 | [3541-report-spam-message](https://github.com/Mehul-kh2005/LeetCode/tree/master/3541-report-spam-message) |
@@ -475,6 +476,7 @@ Author- Mehul Khandelwal
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Mehul-kh2005/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Mehul-kh2005/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Mehul-kh2005/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mehul-kh2005/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -610,6 +612,7 @@ Author- Mehul Khandelwal
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/Mehul-kh2005/LeetCode/tree/master/3321-type-of-triangle) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Mehul-kh2005/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/Mehul-kh2005/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Mehul-kh2005/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -1046,6 +1049,7 @@ Author- Mehul Khandelwal
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mehul-kh2005/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Mehul-kh2005/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3519-find-the-number-of-winning-players](https://github.com/Mehul-kh2005/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -1096,6 +1100,7 @@ Author- Mehul Khandelwal
 | [3195-separate-black-and-white-balls](https://github.com/Mehul-kh2005/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Mehul-kh2005/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Mehul-kh2005/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mehul-kh2005/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Mehul-kh2005/LeetCode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3647-zero-array-transformation-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3647-zero-array-transformation-iii) |
