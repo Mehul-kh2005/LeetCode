@@ -94,6 +94,7 @@ Author- Mehul Khandelwal
 | [0907-koko-eating-bananas](https://github.com/Mehul-kh2005/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Mehul-kh2005/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Mehul-kh2005/LeetCode/tree/master/0952-word-subsets) |
 | [0979-di-string-match](https://github.com/Mehul-kh2005/LeetCode/tree/master/0979-di-string-match) |
@@ -784,6 +785,7 @@ Author- Mehul Khandelwal
 | [0806-domino-and-tromino-tiling](https://github.com/Mehul-kh2005/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mehul-kh2005/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/Mehul-kh2005/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Mehul-kh2005/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/Mehul-kh2005/LeetCode/tree/master/1170-shortest-common-supersequence) |
@@ -1035,6 +1037,7 @@ Author- Mehul Khandelwal
 | [0287-find-the-duplicate-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Mehul-kh2005/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/Mehul-kh2005/LeetCode/tree/master/0476-number-complement) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mehul-kh2005/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Mehul-kh2005/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
