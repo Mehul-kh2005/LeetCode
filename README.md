@@ -307,6 +307,7 @@ Author- Mehul Khandelwal
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mehul-kh2005/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Mehul-kh2005/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
 | ------- |
@@ -866,6 +867,7 @@ Author- Mehul Khandelwal
 | [3516-design-neighbor-sum-service](https://github.com/Mehul-kh2005/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Queue
 |  |
 | ------- |
@@ -1129,6 +1131,7 @@ Author- Mehul Khandelwal
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
 |  |
 | ------- |
@@ -1573,6 +1576,7 @@ Author- Mehul Khandelwal
 | [2280-count-good-triplets-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/Mehul-kh2005/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3790-fruits-into-baskets-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1640,6 +1644,7 @@ Author- Mehul Khandelwal
 | [2280-count-good-triplets-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mehul-kh2005/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Mehul-kh2005/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
