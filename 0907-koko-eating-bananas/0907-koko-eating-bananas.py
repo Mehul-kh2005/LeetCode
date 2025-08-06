@@ -1,15 +1,23 @@
+from math import ceil
+
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        left,right=1,max(piles)
 
-        def can_finish(n):
-            hours_needed=sum(math.ceil(p/n) for p in piles)
-            return hours_needed<=h
+        def isPossible(k):
+            time_taken=0
+            for pile in piles:
+                time_taken+=ceil(pile/k)
 
-        while left<right:
+            return time_taken<=h
+
+        left=1
+        right=max(piles)
+
+        while left<=right:
             mid=(left+right)//2
-            if can_finish(mid):
-                right=mid
+
+            if isPossible(mid):
+                right=mid-1
             else:
                 left=mid+1
 
