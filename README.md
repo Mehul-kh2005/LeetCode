@@ -569,6 +569,7 @@ Author- Mehul Khandelwal
 | [0268-missing-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Mehul-kh2005/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Mehul-kh2005/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Mehul-kh2005/LeetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Mehul-kh2005/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Mehul-kh2005/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/Mehul-kh2005/LeetCode/tree/master/0382-linked-list-random-node) |
@@ -1063,6 +1064,7 @@ Author- Mehul Khandelwal
 | [0231-power-of-two](https://github.com/Mehul-kh2005/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Mehul-kh2005/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Mehul-kh2005/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/Mehul-kh2005/LeetCode/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1255,6 +1257,7 @@ Author- Mehul Khandelwal
 | [0241-different-ways-to-add-parentheses](https://github.com/Mehul-kh2005/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Mehul-kh2005/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Mehul-kh2005/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Mehul-kh2005/LeetCode/tree/master/0342-power-of-four) |
 | [1197-parsing-a-boolean-expression](https://github.com/Mehul-kh2005/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/Mehul-kh2005/LeetCode/tree/master/2050-count-good-numbers) |
