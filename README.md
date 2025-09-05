@@ -1122,6 +1122,7 @@ Author- Mehul Khandelwal
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Mehul-kh2005/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Mehul-kh2005/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Mehul-kh2005/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mehul-kh2005/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -1683,6 +1684,7 @@ Author- Mehul Khandelwal
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Mehul-kh2005/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Mehul-kh2005/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Mehul-kh2005/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Memoization
 |  |
 | ------- |
@@ -1738,6 +1740,7 @@ Author- Mehul Khandelwal
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mehul-kh2005/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Mehul-kh2005/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mehul-kh2005/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Mehul-kh2005/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/Mehul-kh2005/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
