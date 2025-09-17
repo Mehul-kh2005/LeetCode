@@ -223,6 +223,7 @@ Author- Mehul Khandelwal
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Mehul-kh2005/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Mehul-kh2005/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Mehul-kh2005/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2429-design-a-food-rating-system](https://github.com/Mehul-kh2005/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2465-shifting-letters-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mehul-kh2005/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -417,6 +418,7 @@ Author- Mehul Khandelwal
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mehul-kh2005/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2429-design-a-food-rating-system](https://github.com/Mehul-kh2005/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mehul-kh2005/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -536,6 +538,7 @@ Author- Mehul Khandelwal
 | [2300-construct-string-with-repeat-limit](https://github.com/Mehul-kh2005/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mehul-kh2005/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Mehul-kh2005/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2429-design-a-food-rating-system](https://github.com/Mehul-kh2005/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Mehul-kh2005/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mehul-kh2005/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -789,6 +792,7 @@ Author- Mehul Khandelwal
 | [1953-finding-mk-average](https://github.com/Mehul-kh2005/LeetCode/tree/master/1953-finding-mk-average) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2207-sequentially-ordinal-rank-tracker](https://github.com/Mehul-kh2005/LeetCode/tree/master/2207-sequentially-ordinal-rank-tracker) |
+| [2429-design-a-food-rating-system](https://github.com/Mehul-kh2005/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Mehul-kh2005/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3516-design-neighbor-sum-service](https://github.com/Mehul-kh2005/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Sliding Window
@@ -980,6 +984,7 @@ Author- Mehul Khandelwal
 | [2300-construct-string-with-repeat-limit](https://github.com/Mehul-kh2005/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mehul-kh2005/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2429-design-a-food-rating-system](https://github.com/Mehul-kh2005/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Mehul-kh2005/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mehul-kh2005/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -1677,6 +1682,7 @@ Author- Mehul Khandelwal
 | [1953-finding-mk-average](https://github.com/Mehul-kh2005/LeetCode/tree/master/1953-finding-mk-average) |
 | [2207-sequentially-ordinal-rank-tracker](https://github.com/Mehul-kh2005/LeetCode/tree/master/2207-sequentially-ordinal-rank-tracker) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/Mehul-kh2005/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Mehul-kh2005/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
