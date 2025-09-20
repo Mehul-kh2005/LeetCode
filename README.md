@@ -336,6 +336,7 @@ Author- Mehul Khandelwal
 | [3790-fruits-into-baskets-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/Mehul-kh2005/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Mehul-kh2005/LeetCode/tree/master/3827-implement-router) |
 ## String
 |  |
 | ------- |
@@ -584,6 +585,7 @@ Author- Mehul Khandelwal
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Mehul-kh2005/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mehul-kh2005/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Mehul-kh2005/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Mehul-kh2005/LeetCode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mehul-kh2005/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -801,6 +803,7 @@ Author- Mehul Khandelwal
 | [3516-design-neighbor-sum-service](https://github.com/Mehul-kh2005/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3678-design-task-manager](https://github.com/Mehul-kh2005/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Mehul-kh2005/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Mehul-kh2005/LeetCode/tree/master/3827-implement-router) |
 ## Sliding Window
 |  |
 | ------- |
@@ -961,6 +964,7 @@ Author- Mehul Khandelwal
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Mehul-kh2005/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/Mehul-kh2005/LeetCode/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1230,6 +1234,7 @@ Author- Mehul Khandelwal
 | [3643-zero-array-transformation-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Mehul-kh2005/LeetCode/tree/master/3827-implement-router) |
 ## Counting
 |  |
 | ------- |
@@ -1696,6 +1701,7 @@ Author- Mehul Khandelwal
 | [3678-design-task-manager](https://github.com/Mehul-kh2005/LeetCode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Mehul-kh2005/LeetCode/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
 | ------- |
