@@ -352,6 +352,7 @@ Author- Mehul Khandelwal
 | [0038-count-and-say](https://github.com/Mehul-kh2005/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Mehul-kh2005/LeetCode/tree/master/0049-group-anagrams) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Mehul-kh2005/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Mehul-kh2005/LeetCode/tree/master/0224-basic-calculator) |
@@ -479,6 +480,7 @@ Author- Mehul Khandelwal
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Mehul-kh2005/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Mehul-kh2005/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -601,6 +603,7 @@ Author- Mehul Khandelwal
 | [0043-multiply-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Mehul-kh2005/LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Mehul-kh2005/LeetCode/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Mehul-kh2005/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Mehul-kh2005/LeetCode/tree/master/0231-power-of-two) |
