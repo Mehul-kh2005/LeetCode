@@ -76,6 +76,7 @@ Author- Mehul Khandelwal
 | [0540-single-element-in-a-sorted-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mehul-kh2005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mehul-kh2005/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mehul-kh2005/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0665-non-decreasing-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0665-non-decreasing-array) |
@@ -704,6 +705,7 @@ Author- Mehul Khandelwal
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/Mehul-kh2005/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mehul-kh2005/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mehul-kh2005/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mehul-kh2005/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1052,6 +1054,7 @@ Author- Mehul Khandelwal
 | [0295-find-median-from-data-stream](https://github.com/Mehul-kh2005/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Mehul-kh2005/LeetCode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mehul-kh2005/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/Mehul-kh2005/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0868-push-dominoes) |
@@ -1199,6 +1202,7 @@ Author- Mehul Khandelwal
 | [0410-split-array-largest-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Mehul-kh2005/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mehul-kh2005/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -1289,6 +1293,7 @@ Author- Mehul Khandelwal
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0611-valid-triangle-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mehul-kh2005/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Mehul-kh2005/LeetCode/tree/master/0670-maximum-swap) |
