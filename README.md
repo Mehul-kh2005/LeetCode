@@ -92,6 +92,7 @@ Author- Mehul Khandelwal
 | [0792-binary-search](https://github.com/Mehul-kh2005/LeetCode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Mehul-kh2005/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0814-smallest-rotation-with-highest-score](https://github.com/Mehul-kh2005/LeetCode/tree/master/0814-smallest-rotation-with-highest-score) |
+| [0830-largest-triangle-area](https://github.com/Mehul-kh2005/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0835-linked-list-components](https://github.com/Mehul-kh2005/LeetCode/tree/master/0835-linked-list-components) |
 | [0854-making-a-large-island](https://github.com/Mehul-kh2005/LeetCode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Mehul-kh2005/LeetCode/tree/master/0859-design-circular-deque) |
@@ -629,6 +630,7 @@ Author- Mehul Khandelwal
 | [0679-24-game](https://github.com/Mehul-kh2005/LeetCode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Mehul-kh2005/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Mehul-kh2005/LeetCode/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/Mehul-kh2005/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Mehul-kh2005/LeetCode/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/1240-stone-game-ii) |
@@ -681,6 +683,7 @@ Author- Mehul Khandelwal
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/Mehul-kh2005/LeetCode/tree/master/0830-largest-triangle-area) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Mehul-kh2005/LeetCode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Sorting
