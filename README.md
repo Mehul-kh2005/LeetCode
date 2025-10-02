@@ -673,6 +673,7 @@ Author- Mehul Khandelwal
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Mehul-kh2005/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/Mehul-kh2005/LeetCode/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3371-harshad-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/3371-harshad-number) |
 | [3548-find-the-count-of-good-integers](https://github.com/Mehul-kh2005/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -967,6 +968,7 @@ Author- Mehul Khandelwal
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mehul-kh2005/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mehul-kh2005/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3336-water-bottles-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Mehul-kh2005/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Mehul-kh2005/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3516-design-neighbor-sum-service](https://github.com/Mehul-kh2005/LeetCode/tree/master/3516-design-neighbor-sum-service) |
