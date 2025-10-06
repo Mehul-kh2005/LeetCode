@@ -92,6 +92,7 @@ Author- Mehul Khandelwal
 | [0780-max-chunks-to-make-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Mehul-kh2005/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Mehul-kh2005/LeetCode/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Mehul-kh2005/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Mehul-kh2005/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0814-smallest-rotation-with-highest-score](https://github.com/Mehul-kh2005/LeetCode/tree/master/0814-smallest-rotation-with-highest-score) |
 | [0830-largest-triangle-area](https://github.com/Mehul-kh2005/LeetCode/tree/master/0830-largest-triangle-area) |
@@ -1005,6 +1006,7 @@ Author- Mehul Khandelwal
 | [0480-sliding-window-median](https://github.com/Mehul-kh2005/LeetCode/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mehul-kh2005/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mehul-kh2005/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/Mehul-kh2005/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mehul-kh2005/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Mehul-kh2005/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -1224,6 +1226,7 @@ Author- Mehul Khandelwal
 | [0731-my-calendar-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0732-my-calendar-iii) |
 | [0792-binary-search](https://github.com/Mehul-kh2005/LeetCode/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Mehul-kh2005/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mehul-kh2005/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/Mehul-kh2005/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -1396,6 +1399,7 @@ Author- Mehul Khandelwal
 | [0417-pacific-atlantic-water-flow](https://github.com/Mehul-kh2005/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Mehul-kh2005/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/Mehul-kh2005/LeetCode/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/Mehul-kh2005/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Mehul-kh2005/LeetCode/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -1457,6 +1461,7 @@ Author- Mehul Khandelwal
 | [0684-redundant-connection](https://github.com/Mehul-kh2005/LeetCode/tree/master/0684-redundant-connection) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0794-swim-in-rising-water](https://github.com/Mehul-kh2005/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Mehul-kh2005/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Mehul-kh2005/LeetCode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mehul-kh2005/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -1498,6 +1503,7 @@ Author- Mehul Khandelwal
 | [0684-redundant-connection](https://github.com/Mehul-kh2005/LeetCode/tree/master/0684-redundant-connection) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0787-sliding-puzzle](https://github.com/Mehul-kh2005/LeetCode/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/Mehul-kh2005/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Mehul-kh2005/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Mehul-kh2005/LeetCode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Mehul-kh2005/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -1534,6 +1540,7 @@ Author- Mehul Khandelwal
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mehul-kh2005/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/Mehul-kh2005/LeetCode/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/Mehul-kh2005/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Mehul-kh2005/LeetCode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mehul-kh2005/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0999-regions-cut-by-slashes) |
