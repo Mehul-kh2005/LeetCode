@@ -309,6 +309,7 @@ Author- Mehul Khandelwal
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mehul-kh2005/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mehul-kh2005/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Mehul-kh2005/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Mehul-kh2005/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3427-special-array-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3429-special-array-i) |
@@ -1671,6 +1672,7 @@ Author- Mehul Khandelwal
 | [2529-range-product-queries-of-powers](https://github.com/Mehul-kh2005/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Mehul-kh2005/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Mehul-kh2005/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
