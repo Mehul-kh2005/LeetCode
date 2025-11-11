@@ -69,6 +69,7 @@ Author- Mehul Khandelwal
 | [0417-pacific-atlantic-water-flow](https://github.com/Mehul-kh2005/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mehul-kh2005/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0474-ones-and-zeroes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/Mehul-kh2005/LeetCode/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/Mehul-kh2005/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Mehul-kh2005/LeetCode/tree/master/0493-reverse-pairs) |
@@ -395,6 +396,7 @@ Author- Mehul Khandelwal
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mehul-kh2005/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Mehul-kh2005/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0474-ones-and-zeroes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/Mehul-kh2005/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Mehul-kh2005/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0567-permutation-in-string) |
@@ -948,6 +950,7 @@ Author- Mehul Khandelwal
 | [0410-split-array-largest-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Mehul-kh2005/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/Mehul-kh2005/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Mehul-kh2005/LeetCode/tree/master/0664-strange-printer) |
