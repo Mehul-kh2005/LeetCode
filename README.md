@@ -129,6 +129,7 @@ Author- Mehul Khandelwal
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Mehul-kh2005/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1240-stone-game-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Mehul-kh2005/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1325-path-with-maximum-probability](https://github.com/Mehul-kh2005/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mehul-kh2005/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mehul-kh2005/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -789,6 +790,7 @@ Author- Mehul Khandelwal
 | [0780-max-chunks-to-make-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/Mehul-kh2005/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Mehul-kh2005/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mehul-kh2005/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mehul-kh2005/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mehul-kh2005/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -985,6 +987,7 @@ Author- Mehul Khandelwal
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Mehul-kh2005/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/Mehul-kh2005/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/1240-stone-game-ii) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Mehul-kh2005/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mehul-kh2005/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mehul-kh2005/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Mehul-kh2005/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1445,6 +1448,7 @@ Author- Mehul Khandelwal
 | [0979-di-string-match](https://github.com/Mehul-kh2005/LeetCode/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/Mehul-kh2005/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Mehul-kh2005/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Mehul-kh2005/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1304-longest-happy-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/1304-longest-happy-string) |
 | [1448-maximum-69-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mehul-kh2005/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
