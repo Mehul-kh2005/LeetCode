@@ -473,6 +473,7 @@ Author- Mehul Khandelwal
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mehul-kh2005/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mehul-kh2005/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mehul-kh2005/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2211-count-collisions-on-a-road](https://github.com/Mehul-kh2005/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mehul-kh2005/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -736,6 +737,7 @@ Author- Mehul Khandelwal
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Mehul-kh2005/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/Mehul-kh2005/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/Mehul-kh2005/LeetCode/tree/master/2050-count-good-numbers) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mehul-kh2005/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2155-find-missing-observations](https://github.com/Mehul-kh2005/LeetCode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1045,6 +1047,7 @@ Author- Mehul Khandelwal
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Mehul-kh2005/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Mehul-kh2005/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mehul-kh2005/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mehul-kh2005/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mehul-kh2005/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/Mehul-kh2005/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Mehul-kh2005/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
