@@ -202,6 +202,7 @@ Author- Mehul Khandelwal
 | [2089-maximum-matrix-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Mehul-kh2005/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mehul-kh2005/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Mehul-kh2005/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Mehul-kh2005/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -737,6 +738,7 @@ Author- Mehul Khandelwal
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Mehul-kh2005/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/Mehul-kh2005/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/Mehul-kh2005/LeetCode/tree/master/2050-count-good-numbers) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mehul-kh2005/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mehul-kh2005/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2155-find-missing-observations](https://github.com/Mehul-kh2005/LeetCode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1047,6 +1049,7 @@ Author- Mehul Khandelwal
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Mehul-kh2005/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Mehul-kh2005/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mehul-kh2005/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mehul-kh2005/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mehul-kh2005/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mehul-kh2005/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/Mehul-kh2005/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
