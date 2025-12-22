@@ -116,6 +116,7 @@ Author- Mehul Khandelwal
 | [0944-delete-columns-to-make-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/Mehul-kh2005/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Mehul-kh2005/LeetCode/tree/master/0952-word-subsets) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0979-di-string-match](https://github.com/Mehul-kh2005/LeetCode/tree/master/0979-di-string-match) |
 | [0999-regions-cut-by-slashes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -441,6 +442,7 @@ Author- Mehul Khandelwal
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mehul-kh2005/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Mehul-kh2005/LeetCode/tree/master/0952-word-subsets) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mehul-kh2005/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0979-di-string-match](https://github.com/Mehul-kh2005/LeetCode/tree/master/0979-di-string-match) |
@@ -1513,6 +1515,7 @@ Author- Mehul Khandelwal
 | [0768-partition-labels](https://github.com/Mehul-kh2005/LeetCode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Mehul-kh2005/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mehul-kh2005/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Mehul-kh2005/LeetCode/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/Mehul-kh2005/LeetCode/tree/master/1018-largest-perimeter-triangle) |
