@@ -437,6 +437,7 @@ Author- Mehul Khandelwal
 | [0664-strange-printer](https://github.com/Mehul-kh2005/LeetCode/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Mehul-kh2005/LeetCode/tree/master/0686-repeated-string-match) |
+| [0756-pyramid-transition-matrix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Mehul-kh2005/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0868-push-dominoes) |
@@ -577,6 +578,7 @@ Author- Mehul Khandelwal
 | [0567-permutation-in-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mehul-kh2005/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mehul-kh2005/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0756-pyramid-transition-matrix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Mehul-kh2005/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Mehul-kh2005/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0835-linked-list-components](https://github.com/Mehul-kh2005/LeetCode/tree/master/0835-linked-list-components) |
@@ -1332,6 +1334,7 @@ Author- Mehul Khandelwal
 | [0216-combination-sum-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Mehul-kh2005/LeetCode/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/Mehul-kh2005/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mehul-kh2005/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Mehul-kh2005/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -1355,6 +1358,7 @@ Author- Mehul Khandelwal
 | [0342-power-of-four](https://github.com/Mehul-kh2005/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Mehul-kh2005/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/Mehul-kh2005/LeetCode/tree/master/0476-number-complement) |
+| [0756-pyramid-transition-matrix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mehul-kh2005/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mehul-kh2005/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
