@@ -33,6 +33,7 @@ Author- Mehul Khandelwal
 | [0075-sort-colors](https://github.com/Mehul-kh2005/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Mehul-kh2005/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/Mehul-kh2005/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -1029,6 +1030,7 @@ Author- Mehul Khandelwal
 | [0022-generate-parentheses](https://github.com/Mehul-kh2005/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Mehul-kh2005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Mehul-kh2005/LeetCode/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Mehul-kh2005/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Mehul-kh2005/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mehul-kh2005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -1298,6 +1300,7 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mehul-kh2005/LeetCode/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Mehul-kh2005/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -1622,6 +1625,7 @@ Author- Mehul Khandelwal
 | [0059-spiral-matrix-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Mehul-kh2005/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mehul-kh2005/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -2074,6 +2078,7 @@ Author- Mehul Khandelwal
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Mehul-kh2005/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/Mehul-kh2005/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Mehul-kh2005/LeetCode/tree/master/1002-maximum-width-ramp) |
