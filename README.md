@@ -137,6 +137,7 @@ Author- Mehul Khandelwal
 | [1240-stone-game-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mehul-kh2005/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Mehul-kh2005/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1325-path-with-maximum-probability](https://github.com/Mehul-kh2005/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mehul-kh2005/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mehul-kh2005/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -748,6 +749,7 @@ Author- Mehul Khandelwal
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mehul-kh2005/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Mehul-kh2005/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1240-stone-game-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/1240-stone-game-ii) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Mehul-kh2005/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Mehul-kh2005/LeetCode/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mehul-kh2005/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mehul-kh2005/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -822,6 +824,7 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Mehul-kh2005/LeetCode/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Mehul-kh2005/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Mehul-kh2005/LeetCode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
