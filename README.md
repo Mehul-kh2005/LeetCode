@@ -369,6 +369,7 @@ Author- Mehul Khandelwal
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mehul-kh2005/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-design-neighbor-sum-service](https://github.com/Mehul-kh2005/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -692,6 +693,7 @@ Author- Mehul Khandelwal
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Mehul-kh2005/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mehul-kh2005/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3516-design-neighbor-sum-service](https://github.com/Mehul-kh2005/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3519-find-the-number-of-winning-players](https://github.com/Mehul-kh2005/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 | [3531-count-covered-buildings](https://github.com/Mehul-kh2005/LeetCode/tree/master/3531-count-covered-buildings) |
@@ -965,6 +967,7 @@ Author- Mehul Khandelwal
 | [2411-spiral-matrix-iv](https://github.com/Mehul-kh2005/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Mehul-kh2005/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Design
 |  |
 | ------- |
@@ -1172,6 +1175,7 @@ Author- Mehul Khandelwal
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Mehul-kh2005/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3433-count-mentions-per-user](https://github.com/Mehul-kh2005/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Mehul-kh2005/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3516-design-neighbor-sum-service](https://github.com/Mehul-kh2005/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1244,6 +1248,7 @@ Author- Mehul Khandelwal
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mehul-kh2005/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mehul-kh2005/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -2043,6 +2048,7 @@ Author- Mehul Khandelwal
 | [2429-design-a-food-rating-system](https://github.com/Mehul-kh2005/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Mehul-kh2005/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3678-design-task-manager](https://github.com/Mehul-kh2005/LeetCode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
@@ -2131,6 +2137,7 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Mehul-kh2005/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Enumeration
 |  |
 | ------- |
