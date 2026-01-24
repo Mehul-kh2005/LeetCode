@@ -193,6 +193,7 @@ Author- Mehul Khandelwal
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Mehul-kh2005/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/Mehul-kh2005/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mehul-kh2005/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Mehul-kh2005/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mehul-kh2005/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -881,6 +882,7 @@ Author- Mehul Khandelwal
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Mehul-kh2005/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mehul-kh2005/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2092-find-all-people-with-secret](https://github.com/Mehul-kh2005/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Mehul-kh2005/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1296,6 +1298,7 @@ Author- Mehul Khandelwal
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Mehul-kh2005/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mehul-kh2005/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1923-sentence-similarity-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/Mehul-kh2005/LeetCode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mehul-kh2005/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -1583,6 +1586,7 @@ Author- Mehul Khandelwal
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mehul-kh2005/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Mehul-kh2005/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Mehul-kh2005/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Mehul-kh2005/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
