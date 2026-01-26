@@ -133,6 +133,7 @@ Author- Mehul Khandelwal
 | [1063-best-sightseeing-pair](https://github.com/Mehul-kh2005/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Mehul-kh2005/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mehul-kh2005/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1200-minimum-absolute-difference](https://github.com/Mehul-kh2005/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Mehul-kh2005/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1240-stone-game-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -872,6 +873,7 @@ Author- Mehul Khandelwal
 | [0757-set-intersection-size-at-least-two](https://github.com/Mehul-kh2005/LeetCode/tree/master/0757-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/Mehul-kh2005/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1200-minimum-absolute-difference](https://github.com/Mehul-kh2005/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mehul-kh2005/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mehul-kh2005/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
