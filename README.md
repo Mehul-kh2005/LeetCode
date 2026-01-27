@@ -1259,6 +1259,7 @@ Author- Mehul Khandelwal
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Mehul-kh2005/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/Mehul-kh2005/LeetCode/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/Mehul-kh2005/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Monotonic Queue
@@ -2021,6 +2022,7 @@ Author- Mehul Khandelwal
 | [2803-modify-graph-edge-weights](https://github.com/Mehul-kh2005/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Mehul-kh2005/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -2217,4 +2219,8 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3454-separate-squares-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Mehul-kh2005/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
