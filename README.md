@@ -1751,6 +1751,7 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Mehul-kh2005/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/Mehul-kh2005/LeetCode/tree/master/0386-lexicographical-numbers) |
@@ -1880,6 +1881,7 @@ Author- Mehul Khandelwal
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0110-balanced-binary-tree](https://github.com/Mehul-kh2005/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mehul-kh2005/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1922,6 +1924,7 @@ Author- Mehul Khandelwal
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0110-balanced-binary-tree](https://github.com/Mehul-kh2005/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mehul-kh2005/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
