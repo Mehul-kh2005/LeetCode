@@ -449,6 +449,7 @@ Author- Mehul Khandelwal
 | [0038-count-and-say](https://github.com/Mehul-kh2005/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Mehul-kh2005/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Mehul-kh2005/LeetCode/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Mehul-kh2005/LeetCode/tree/master/0214-shortest-palindrome) |
@@ -751,6 +752,7 @@ Author- Mehul Khandelwal
 | [0043-multiply-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Mehul-kh2005/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Mehul-kh2005/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Mehul-kh2005/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Mehul-kh2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/0189-rotate-array) |
@@ -1170,6 +1172,7 @@ Author- Mehul Khandelwal
 | [0043-multiply-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Mehul-kh2005/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Mehul-kh2005/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Mehul-kh2005/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0874-backspace-string-compare](https://github.com/Mehul-kh2005/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -1421,6 +1424,7 @@ Author- Mehul Khandelwal
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Mehul-kh2005/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Mehul-kh2005/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Mehul-kh2005/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0136-single-number) |
