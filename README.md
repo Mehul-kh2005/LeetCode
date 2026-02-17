@@ -1407,6 +1407,7 @@ Author- Mehul Khandelwal
 | [0078-subsets](https://github.com/Mehul-kh2005/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0401-binary-watch](https://github.com/Mehul-kh2005/LeetCode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Mehul-kh2005/LeetCode/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0756-pyramid-transition-matrix) |
@@ -1434,6 +1435,7 @@ Author- Mehul Khandelwal
 | [0287-find-the-duplicate-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Mehul-kh2005/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Mehul-kh2005/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0401-binary-watch](https://github.com/Mehul-kh2005/LeetCode/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/Mehul-kh2005/LeetCode/tree/master/0476-number-complement) |
 | [0756-pyramid-transition-matrix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
