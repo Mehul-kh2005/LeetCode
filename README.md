@@ -1437,6 +1437,7 @@ Author- Mehul Khandelwal
 | [0371-sum-of-two-integers](https://github.com/Mehul-kh2005/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0401-binary-watch](https://github.com/Mehul-kh2005/LeetCode/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/Mehul-kh2005/LeetCode/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Mehul-kh2005/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mehul-kh2005/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
