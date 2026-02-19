@@ -468,6 +468,7 @@ Author- Mehul Khandelwal
 | [0664-strange-printer](https://github.com/Mehul-kh2005/LeetCode/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Mehul-kh2005/LeetCode/tree/master/0686-repeated-string-match) |
+| [0696-count-binary-substrings](https://github.com/Mehul-kh2005/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Mehul-kh2005/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Mehul-kh2005/LeetCode/tree/master/0768-partition-labels) |
@@ -1323,6 +1324,7 @@ Author- Mehul Khandelwal
 | [0392-is-subsequence](https://github.com/Mehul-kh2005/LeetCode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/Mehul-kh2005/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mehul-kh2005/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/Mehul-kh2005/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0868-push-dominoes) |
