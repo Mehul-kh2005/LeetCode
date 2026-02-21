@@ -14,4 +14,4 @@ class Solution:
                 if depth>0:
                     result+=ch
 
-        return result          
+        return result
