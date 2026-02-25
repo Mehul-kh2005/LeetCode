@@ -1,10 +1,10 @@
 class Solution:
     def frequencySort(self, s: str) -> str:
-        freq=Counter(s)
-        sorted_dict=dict(sorted(freq.items(),key=lambda item:item[1],reverse=True))
-        string=""
+        hash_map={}
 
-        for char,value in sorted_dict.items():
-            string+=(char)*value
+        for ch in s:
+            hash_map[ch]=hash_map.get(ch,0)+1
 
-        return string
+        hash_map=sorted(hash_map.items(),key=lambda x:x[1],reverse=True)
+
+        return "".join(key*value for key,value in hash_map)
