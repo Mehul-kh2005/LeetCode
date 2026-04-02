@@ -594,6 +594,7 @@ Author- Mehul Khandelwal
 | [3396-valid-word](https://github.com/Mehul-kh2005/LeetCode/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mehul-kh2005/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3451-string-compression-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3451-string-compression-iii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Mehul-kh2005/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3541-report-spam-message](https://github.com/Mehul-kh2005/LeetCode/tree/master/3541-report-spam-message) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -1742,6 +1743,7 @@ Author- Mehul Khandelwal
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mehul-kh2005/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Mehul-kh2005/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mehul-kh2005/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Mehul-kh2005/LeetCode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mehul-kh2005/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mehul-kh2005/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -2192,6 +2194,7 @@ Author- Mehul Khandelwal
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mehul-kh2005/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Mehul-kh2005/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Ordered Set
 |  |
 | ------- |
