@@ -576,6 +576,7 @@ Author- Mehul Khandelwal
 | [2755-extra-characters-in-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mehul-kh2005/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Mehul-kh2005/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -594,7 +595,6 @@ Author- Mehul Khandelwal
 | [3396-valid-word](https://github.com/Mehul-kh2005/LeetCode/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mehul-kh2005/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3451-string-compression-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3451-string-compression-iii) |
-| [3474-lexicographically-smallest-generated-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Mehul-kh2005/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3541-report-spam-message](https://github.com/Mehul-kh2005/LeetCode/tree/master/3541-report-spam-message) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -728,6 +728,7 @@ Author- Mehul Khandelwal
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Mehul-kh2005/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Mehul-kh2005/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/Mehul-kh2005/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -979,6 +980,7 @@ Author- Mehul Khandelwal
 | [2689-rearranging-fruits](https://github.com/Mehul-kh2005/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mehul-kh2005/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mehul-kh2005/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Mehul-kh2005/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Mehul-kh2005/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -1743,7 +1745,6 @@ Author- Mehul Khandelwal
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mehul-kh2005/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Mehul-kh2005/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mehul-kh2005/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
-| [3474-lexicographically-smallest-generated-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Mehul-kh2005/LeetCode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mehul-kh2005/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mehul-kh2005/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -2194,7 +2195,6 @@ Author- Mehul Khandelwal
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mehul-kh2005/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Mehul-kh2005/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
-| [3474-lexicographically-smallest-generated-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Ordered Set
 |  |
 | ------- |
