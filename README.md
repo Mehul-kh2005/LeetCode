@@ -432,6 +432,7 @@ Author- Mehul Khandelwal
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Mehul-kh2005/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Mehul-kh2005/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Mehul-kh2005/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Mehul-kh2005/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Mehul-kh2005/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Mehul-kh2005/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -2245,6 +2246,7 @@ Author- Mehul Khandelwal
 | [0761-special-binary-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Bucket Sort
