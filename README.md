@@ -432,7 +432,6 @@ Author- Mehul Khandelwal
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Mehul-kh2005/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Mehul-kh2005/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Mehul-kh2005/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
-| [3653-xor-after-range-multiplication-queries-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Mehul-kh2005/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Mehul-kh2005/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Mehul-kh2005/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -1072,6 +1071,7 @@ Author- Mehul Khandelwal
 | [1953-finding-mk-average](https://github.com/Mehul-kh2005/LeetCode/tree/master/1953-finding-mk-average) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Mehul-kh2005/LeetCode/tree/master/2023-design-movie-rental-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/Mehul-kh2005/LeetCode/tree/master/2169-simple-bank-system) |
 | [2207-sequentially-ordinal-rank-tracker](https://github.com/Mehul-kh2005/LeetCode/tree/master/2207-sequentially-ordinal-rank-tracker) |
 | [2429-design-a-food-rating-system](https://github.com/Mehul-kh2005/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -1250,6 +1250,7 @@ Author- Mehul Khandelwal
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mehul-kh2005/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mehul-kh2005/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2069-walking-robot-simulation-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Mehul-kh2005/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Mehul-kh2005/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -1284,7 +1285,6 @@ Author- Mehul Khandelwal
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Mehul-kh2005/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
-| [3653-xor-after-range-multiplication-queries-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Mehul-kh2005/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -2245,7 +2245,6 @@ Author- Mehul Khandelwal
 | [0761-special-binary-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
-| [3653-xor-after-range-multiplication-queries-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mehul-kh2005/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Bucket Sort
