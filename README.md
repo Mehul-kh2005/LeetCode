@@ -197,6 +197,7 @@ Author- Mehul Khandelwal
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Mehul-kh2005/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1830-count-good-meals](https://github.com/Mehul-kh2005/LeetCode/tree/master/1830-count-good-meals) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Mehul-kh2005/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Mehul-kh2005/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Mehul-kh2005/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mehul-kh2005/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/Mehul-kh2005/LeetCode/tree/master/1876-map-of-highest-peak) |
