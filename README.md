@@ -287,6 +287,7 @@ Author- Mehul Khandelwal
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mehul-kh2005/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Mehul-kh2005/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Mehul-kh2005/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mehul-kh2005/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Mehul-kh2005/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/Mehul-kh2005/LeetCode/tree/master/2529-range-product-queries-of-powers) |
@@ -576,6 +577,7 @@ Author- Mehul Khandelwal
 | [2470-removing-stars-from-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Mehul-kh2005/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2573-find-the-string-with-lcp](https://github.com/Mehul-kh2005/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2580-circular-sentence](https://github.com/Mehul-kh2005/LeetCode/tree/master/2580-circular-sentence) |
