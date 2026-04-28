@@ -150,6 +150,7 @@ Author- Mehul Khandelwal
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mehul-kh2005/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/Mehul-kh2005/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1390-four-divisors](https://github.com/Mehul-kh2005/LeetCode/tree/master/1390-four-divisors) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/Mehul-kh2005/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mehul-kh2005/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Mehul-kh2005/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -1840,6 +1841,7 @@ Author- Mehul Khandelwal
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mehul-kh2005/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mehul-kh2005/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mehul-kh2005/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/Mehul-kh2005/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mehul-kh2005/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1933,6 +1935,7 @@ Author- Mehul Khandelwal
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mehul-kh2005/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mehul-kh2005/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mehul-kh2005/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/Mehul-kh2005/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/Mehul-kh2005/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Mehul-kh2005/LeetCode/tree/master/1558-course-schedule-iv) |
@@ -1981,6 +1984,7 @@ Author- Mehul Khandelwal
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mehul-kh2005/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mehul-kh2005/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mehul-kh2005/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/Mehul-kh2005/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Mehul-kh2005/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1484-linked-list-in-binary-tree](https://github.com/Mehul-kh2005/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -2450,6 +2454,7 @@ Author- Mehul Khandelwal
 ## Union-Find
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Mehul-kh2005/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/Mehul-kh2005/LeetCode/tree/master/2573-find-the-string-with-lcp) |
