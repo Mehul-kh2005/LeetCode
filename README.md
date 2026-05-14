@@ -186,6 +186,7 @@ Author- Mehul Khandelwal
 | [1646-kth-missing-positive-number](https://github.com/Mehul-kh2005/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/Mehul-kh2005/LeetCode/tree/master/1656-count-good-triplets) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Mehul-kh2005/LeetCode/tree/master/1657-find-the-winner-of-an-array-game) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Mehul-kh2005/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mehul-kh2005/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Mehul-kh2005/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mehul-kh2005/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -711,6 +712,7 @@ Author- Mehul Khandelwal
 | [1590-make-sum-divisible-by-p](https://github.com/Mehul-kh2005/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/Mehul-kh2005/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Mehul-kh2005/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Mehul-kh2005/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mehul-kh2005/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Mehul-kh2005/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mehul-kh2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -2155,6 +2157,7 @@ Author- Mehul Khandelwal
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/Mehul-kh2005/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Mehul-kh2005/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mehul-kh2005/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mehul-kh2005/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
