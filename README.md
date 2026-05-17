@@ -143,6 +143,7 @@ Author- Mehul Khandelwal
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mehul-kh2005/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Mehul-kh2005/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mehul-kh2005/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1306-jump-game-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/1306-jump-game-iii) |
 | [1325-path-with-maximum-probability](https://github.com/Mehul-kh2005/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mehul-kh2005/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mehul-kh2005/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1957,6 +1958,7 @@ Author- Mehul Khandelwal
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mehul-kh2005/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mehul-kh2005/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mehul-kh2005/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1306-jump-game-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mehul-kh2005/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mehul-kh2005/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mehul-kh2005/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -2008,6 +2010,7 @@ Author- Mehul Khandelwal
 | [0999-regions-cut-by-slashes](https://github.com/Mehul-kh2005/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mehul-kh2005/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mehul-kh2005/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1306-jump-game-iii](https://github.com/Mehul-kh2005/LeetCode/tree/master/1306-jump-game-iii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mehul-kh2005/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/Mehul-kh2005/LeetCode/tree/master/1396-count-servers-that-communicate) |
