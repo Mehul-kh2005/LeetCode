@@ -239,6 +239,7 @@ Author- Mehul Khandelwal
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Mehul-kh2005/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/Mehul-kh2005/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mehul-kh2005/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2126-destroying-asteroids](https://github.com/Mehul-kh2005/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Mehul-kh2005/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Mehul-kh2005/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -1018,6 +1019,7 @@ Author- Mehul Khandelwal
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mehul-kh2005/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2092-find-all-people-with-secret](https://github.com/Mehul-kh2005/LeetCode/tree/master/2092-find-all-people-with-secret) |
+| [2126-destroying-asteroids](https://github.com/Mehul-kh2005/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Mehul-kh2005/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mehul-kh2005/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mehul-kh2005/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
@@ -1805,6 +1807,7 @@ Author- Mehul Khandelwal
 | [2089-maximum-matrix-sum](https://github.com/Mehul-kh2005/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Mehul-kh2005/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mehul-kh2005/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2126-destroying-asteroids](https://github.com/Mehul-kh2005/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mehul-kh2005/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Mehul-kh2005/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Mehul-kh2005/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
